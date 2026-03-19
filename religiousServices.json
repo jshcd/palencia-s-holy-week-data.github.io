@@ -898,5 +898,215 @@
         "description": "Salve solemne",
         "president": null,
         "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-04-02T00:00:00.000Z",
+        "startTime": "16:30",
+        "category": "mass",
+        "place": 9,
+        "organizers": [8],
+        "description": "Misa in Coena Domini",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-04-02T00:00:00.000Z",
+        "startTime": "16:30",
+        "category": "mass",
+        "place": 3,
+        "organizers": [2],
+        "description": "Misa in Coena Domini",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-04-02T00:00:00.000Z",
+        "startTime": "17:00",
+        "category": "mass",
+        "place": 10,
+        "organizers": [9],
+        "description": "Misa in Coena Domini",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-04-02T00:00:00.000Z",
+        "startTime": "17:00",
+        "category": "mass",
+        "place": 4,
+        "organizers": [3],
+        "description": "Misa in Coena Domini",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-04-02T00:00:00.000Z",
+        "startTime": "18:00",
+        "category": "mass",
+        "place": 2,
+        "organizers": [1],
+        "description": "Misa in Coena Domini",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-04-02T00:00:00.000Z",
+        "startTime": "19:30",
+        "category": "mass",
+        "place": 5,
+        "organizers": [4],
+        "description": "Misa in Coena Domini",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-04-03T00:00:00.000Z",
+        "startTime": "16:30",
+        "category": "mass",
+        "place": 3,
+        "organizers": [2],
+        "description": "Santos Oficios",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-04-03T00:00:00.000Z",
+        "startTime": "17:00",
+        "category": "mass",
+        "place": 10,
+        "organizers": [9],
+        "description": "Santos Oficios",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-04-03T00:00:00.000Z",
+        "startTime": "17:30",
+        "category": "mass",
+        "place": 6,
+        "organizers": [5],
+        "description": "Santos Oficios",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-04-03T00:00:00.000Z",
+        "startTime": "17:30",
+        "category": "mass",
+        "place": 2,
+        "organizers": [1],
+        "description": "Santos Oficios",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-04-03T00:00:00.000Z",
+        "startTime": "18:00",
+        "category": "mass",
+        "place": 5,
+        "organizers": [4],
+        "description": "Santos Oficios",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-04-03T00:00:00.000Z",
+        "startTime": "18:00",
+        "category": "mass",
+        "place": 9,
+        "organizers": [8],
+        "description": "Santos Oficios",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-04-04T00:00:00.000Z",
+        "startTime": "20:00",
+        "category": "mass",
+        "place": 10,
+        "organizers": [9],
+        "description": "Vigilia Pascual",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-04-04T00:00:00.000Z",
+        "startTime": "22:00",
+        "category": "mass",
+        "place": 1,
+        "organizers": [],
+        "description": "Vigilia Pascual",
+        "president": "Excmo. y Rvdmo. Obispo de Palencia",
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-04-04T00:00:00.000Z",
+        "startTime": "23:00",
+        "category": "mass",
+        "place": 6,
+        "organizers": [5],
+        "description": "Vigilia Pascual",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-04-05T00:00:00.000Z",
+        "startTime": "11:00",
+        "category": "mass",
+        "place": 6,
+        "organizers": [5],
+        "description": "Santa Misa de Resurrección",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-04-05T00:00:00.000Z",
+        "startTime": "11:30",
+        "category": "mass",
+        "place": 4,
+        "organizers": [3],
+        "description": "Santa Misa de Resurrección",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-04-05T00:00:00.000Z",
+        "startTime": "12:00",
+        "category": "mass",
+        "place": 2,
+        "organizers": [1],
+        "description": "Misa de Comunión General",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-04-05T00:00:00.000Z",
+        "startTime": "12:00",
+        "category": "mass",
+        "place": 5,
+        "organizers": [4],
+        "description": "Santa Misa de Resurrección",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-04-05T00:00:00.000Z",
+        "startTime": "13:00",
+        "category": "mass",
+        "place": 8,
+        "organizers": [7],
+        "description": "Misa de Pascua",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-04-05T00:00:00.000Z",
+        "startTime": "13:00",
+        "category": "mass",
+        "place": 9,
+        "organizers": [8],
+        "description": "Santa Misa de Resurrección",
+        "president": null,
+        "musicalAccompaniment": null
     }
 ]
