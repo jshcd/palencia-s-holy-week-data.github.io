@@ -1,0 +1,902 @@
+[
+    {
+        "date": "2026-02-18T00:00:00.000Z",
+        "startTime": "19:00",
+        "category": "mass",
+        "place": 5,
+        "organizers": [4],
+        "description": "Santa Misa con imposición de la Ceniza",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-02-18T00:00:00.000Z",
+        "startTime": "19:30",
+        "category": "mass",
+        "place": 2,
+        "organizers": [1],
+        "description": "Santa Misa con imposición de la Ceniza",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-02-18T00:00:00.000Z",
+        "startTime": "19:30",
+        "category": "mass",
+        "place": 6,
+        "organizers": [5],
+        "description": "Santa Misa con imposición de la Ceniza",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-02-18T00:00:00.000Z",
+        "startTime": "20:00",
+        "category": "mass",
+        "place": 4,
+        "organizers": [3],
+        "description": "Santa Misa con imposición de la Ceniza",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-02-18T00:00:00.000Z",
+        "startTime": "20:30",
+        "category": "mass",
+        "place": 3,
+        "organizers": [2],
+        "description": "Santa Misa con imposición de la Ceniza",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-02-18T00:00:00.000Z",
+        "startTime": "20:30",
+        "category": "mass",
+        "place": 9,
+        "organizers": [6, 8],
+        "description": "Santa Misa con imposición de la Ceniza",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-02-20T00:00:00.000Z",
+        "startTime": "19:30",
+        "category": "via-crucis",
+        "place": 2,
+        "organizers": [1],
+        "description": "Vía Crucis de Cuaresma",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-02-21T00:00:00.000Z",
+        "startTime": "19:00",
+        "category": "via-crucis",
+        "place": 1,
+        "organizers": null,
+        "description": "Meditación",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-02-21T00:00:00.000Z",
+        "startTime": "20:00",
+        "category": "via-crucis",
+        "place": 1,
+        "organizers": null,
+        "description": "Vía Crucis \"Anuncio del camino cuaresmal\"",
+        "president": "Excmo. y Rvdmo. Obispo de Palencia",
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-02-24T00:00:00.000Z",
+        "startTime": "19:30",
+        "category": "novena",
+        "place": 8,
+        "organizers": [7],
+        "description": "Novena a Jesús de Medinaceli y Rosario",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-02-24T00:00:00.000Z",
+        "startTime": "20:00",
+        "category": "mass",
+        "place": 8,
+        "organizers": [7],
+        "description": "Misa",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-02-25T00:00:00.000Z",
+        "startTime": "19:30",
+        "category": "novena",
+        "place": 8,
+        "organizers": [7],
+        "description": "Novena a Jesús de Medinaceli y Rosario",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-02-25T00:00:00.000Z",
+        "startTime": "20:00",
+        "category": "mass",
+        "place": 8,
+        "organizers": [7],
+        "description": "Misa",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-02-26T00:00:00.000Z",
+        "startTime": "19:30",
+        "category": "novena",
+        "place": 8,
+        "organizers": [7],
+        "description": "Novena a Jesús de Medinaceli y Rosario",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-02-26T00:00:00.000Z",
+        "startTime": "20:00",
+        "category": "mass",
+        "place": 8,
+        "organizers": [7],
+        "description": "Misa",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-02-27T00:00:00.000Z",
+        "startTime": "19:30",
+        "category": "triduum",
+        "place": 2,
+        "organizers": [1],
+        "description": "Triduo a Nuestra Señora de la Vera Cruz",
+        "president": "Mons. Javier del Río Sendino",
+        "musicalAccompaniment": "Ad Libitum"
+    },
+    {
+        "date": "2026-02-27T00:00:00.000Z",
+        "startTime": "19:30",
+        "category": "novena",
+        "place": 8,
+        "organizers": [7],
+        "description": "Novena a Jesús de Medinaceli y Rosario",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-02-27T00:00:00.000Z",
+        "startTime": "20:00",
+        "category": "mass",
+        "place": 8,
+        "organizers": [7],
+        "description": "Misa",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-02-28T00:00:00.000Z",
+        "startTime": "19:30",
+        "category": "triduum",
+        "place": 2,
+        "organizers": [1],
+        "description": "Triduo a Nuestra Señora de la Vera Cruz",
+        "president": "Mons. Javier del Río Sendino",
+        "musicalAccompaniment": "Natalia Bravo, soprano"
+    },
+    {
+        "date": "2026-02-28T00:00:00.000Z",
+        "startTime": "19:30",
+        "category": "via-crucis",
+        "place": 3,
+        "organizers": [2],
+        "description": "Vía Crucis",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-02-28T00:00:00.000Z",
+        "startTime": "19:30",
+        "category": "novena",
+        "place": 8,
+        "organizers": [7],
+        "description": "Novena a Jesús de Medinaceli y Rosario",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-02-28T00:00:00.000Z",
+        "startTime": "20:00",
+        "category": "mass",
+        "place": 3,
+        "organizers": [2],
+        "description": "Santa Misa",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-02-28T00:00:00.000Z",
+        "startTime": "20:00",
+        "category": "mass",
+        "place": 8,
+        "organizers": [7],
+        "description": "Misa",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-01T00:00:00.000Z",
+        "startTime": "19:30",
+        "category": "triduum",
+        "place": 2,
+        "organizers": [1],
+        "description": "Triduo a Nuestra Señora de la Vera Cruz",
+        "president": "Mons. Javier del Río Sendino",
+        "musicalAccompaniment": "A. M. Santa Vera Cruz"
+    },
+    {
+        "date": "2026-03-01T00:00:00.000Z",
+        "startTime": "19:30",
+        "category": "novena",
+        "place": 8,
+        "organizers": [7],
+        "description": "Novena a Jesús de Medinaceli y Rosario",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-01T00:00:00.000Z",
+        "startTime": "20:00",
+        "category": "mass",
+        "place": 8,
+        "organizers": [7],
+        "description": "Misa",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-02T00:00:00.000Z",
+        "startTime": "19:30",
+        "category": "novena",
+        "place": 8,
+        "organizers": [7],
+        "description": "Novena a Jesús de Medinaceli y Rosario",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-02T00:00:00.000Z",
+        "startTime": "20:00",
+        "category": "mass",
+        "place": 8,
+        "organizers": [7],
+        "description": "Misa",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-03T00:00:00.000Z",
+        "startTime": "19:30",
+        "category": "novena",
+        "place": 8,
+        "organizers": [7],
+        "description": "Novena a Jesús de Medinaceli y Rosario",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-03T00:00:00.000Z",
+        "startTime": "20:00",
+        "category": "mass",
+        "place": 8,
+        "organizers": [7],
+        "description": "Misa",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-04T00:00:00.000Z",
+        "startTime": "19:30",
+        "category": "novena",
+        "place": 8,
+        "organizers": [7],
+        "description": "Novena a Jesús de Medinaceli y Rosario",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-04T00:00:00.000Z",
+        "startTime": "20:00",
+        "category": "mass",
+        "place": 8,
+        "organizers": [7],
+        "description": "Misa",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-05T00:00:00.000Z",
+        "startTime": "20:00",
+        "category": "triduum",
+        "place": 9,
+        "organizers": [8],
+        "description": "Solemne Triduo al Santo Cristo Señor de la Vida y de la Muerte",
+        "president": "Fr. Constancio Ruiz Cuadrado O.F.M. Conv.",
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-06T00:00:00.000Z",
+        "startTime": "11:00",
+        "category": "veneration",
+        "place": 8,
+        "organizers": [7],
+        "description": "Besa cordón a Jesús de Medinaceli",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-06T00:00:00.000Z",
+        "startTime": "12:00",
+        "category": "angelus",
+        "place": 8,
+        "organizers": [7],
+        "description": "Ángelus",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-06T00:00:00.000Z",
+        "startTime": "19:15",
+        "category": "via-crucis",
+        "place": 8,
+        "organizers": [7],
+        "description": "Vía Crucis",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-06T00:00:00.000Z",
+        "startTime": "19:30",
+        "category": "via-crucis",
+        "place": 2,
+        "organizers": [1],
+        "description": "Vía Crucis de Cuaresma",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-06T00:00:00.000Z",
+        "startTime": "20:00",
+        "category": "mass",
+        "place": 8,
+        "organizers": [7],
+        "description": "Misa",
+        "president": null,
+        "musicalAccompaniment": "Coral Blanca de Castilla"
+    },
+    {
+        "date": "2026-03-06T00:00:00.000Z",
+        "startTime": "20:00",
+        "category": "triduum",
+        "place": 9,
+        "organizers": [8],
+        "description": "Solemne Triduo al Santo Cristo Señor de la Vida y de la Muerte",
+        "president": "Fr. Constancio Ruiz Cuadrado O.F.M. Conv.",
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-07T00:00:00.000Z",
+        "startTime": "19:30",
+        "category": "via-crucis",
+        "place": 3,
+        "organizers": [2],
+        "description": "Vía Crucis",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-07T00:00:00.000Z",
+        "startTime": "20:00",
+        "category": "mass",
+        "place": 3,
+        "organizers": [2],
+        "description": "Santa Misa",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-07T00:00:00.000Z",
+        "startTime": "20:00",
+        "category": "triduum",
+        "place": 9,
+        "organizers": [8],
+        "description": "Solemne Triduo al Santo Cristo Señor de la Vida y de la Muerte e Imposición de medallas",
+        "president": "Fr. Constancio Ruiz Cuadrado O.F.M. Conv.",
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-09T00:00:00.000Z",
+        "startTime": "20:00",
+        "category": "triduum",
+        "place": 7,
+        "organizers": [6],
+        "description": "Triduo a Jesús Crucificado y Nuestra Madre Dolorosa",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-10T00:00:00.000Z",
+        "startTime": "20:00",
+        "category": "triduum",
+        "place": 7,
+        "organizers": [6],
+        "description": "Triduo a Jesús Crucificado y Nuestra Madre Dolorosa",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-11T00:00:00.000Z",
+        "startTime": "19:10",
+        "category": "rosary",
+        "place": 6,
+        "organizers": [5],
+        "description": "Santo Rosario",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-11T00:00:00.000Z",
+        "startTime": "19:30",
+        "category": "triduum",
+        "place": 6,
+        "organizers": [5],
+        "description": "Triduo al Santísimo Cristo de la Misericordia",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-11T00:00:00.000Z",
+        "startTime": "20:00",
+        "category": "triduum",
+        "place": 7,
+        "organizers": [6],
+        "description": "Triduo a Jesús Crucificado y Nuestra Madre Dolorosa",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-11T00:00:00.000Z",
+        "startTime": "20:00",
+        "category": "quinary",
+        "place": 4,
+        "organizers": [3],
+        "description": "Quinario a N. P. Jesús Nazareno",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-12T00:00:00.000Z",
+        "startTime": "19:10",
+        "category": "rosary",
+        "place": 6,
+        "organizers": [5],
+        "description": "Santo Rosario",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-12T00:00:00.000Z",
+        "startTime": "19:30",
+        "category": "triduum",
+        "place": 6,
+        "organizers": [5],
+        "description": "Triduo al Santísimo Cristo de la Misericordia",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-12T00:00:00.000Z",
+        "startTime": "20:00",
+        "category": "quinary",
+        "place": 4,
+        "organizers": [3],
+        "description": "Quinario a N. P. Jesús Nazareno",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-13T00:00:00.000Z",
+        "startTime": "19:10",
+        "category": "via-crucis",
+        "place": 6,
+        "organizers": [5],
+        "description": "Santo Viacrucis cuaresmal",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-13T00:00:00.000Z",
+        "startTime": "19:30",
+        "category": "triduum",
+        "place": 6,
+        "organizers": [5],
+        "description": "Triduo al Santísimo Cristo de la Misericordia",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-13T00:00:00.000Z",
+        "startTime": "19:30",
+        "category": "triduum",
+        "place": 2,
+        "organizers": [1],
+        "description": "Triduo a la Santa Vera Cruz - Lignum Crucis",
+        "president": "D. Manuel González Domínguez, sacerdote hermano",
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-13T00:00:00.000Z",
+        "startTime": "20:00",
+        "category": "quinary",
+        "place": 4,
+        "organizers": [3],
+        "description": "Quinario a N. P. Jesús Nazareno",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-13T00:00:00.000Z",
+        "startTime": "20:00",
+        "category": "via-crucis",
+        "place": 4,
+        "organizers": [3],
+        "description": "Solemne Viacrucis (Plaza de San Pablo)",
+        "president": "Imagen de N. P. Jesús Nazareno portado a hombros por los hermanos y hermanas de la cofradía",
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-14T00:00:00.000Z",
+        "startTime": "19:30",
+        "category": "triduum",
+        "place": 2,
+        "organizers": [1],
+        "description": "Triduo a la Santa Vera Cruz - Lignum Crucis",
+        "president": "D. Manuel González Domínguez, sacerdote hermano",
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-14T00:00:00.000Z",
+        "startTime": "19:30",
+        "category": "via-crucis",
+        "place": 3,
+        "organizers": [2],
+        "description": "Vía Crucis",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-14T00:00:00.000Z",
+        "startTime": "20:00",
+        "category": "mass",
+        "place": 3,
+        "organizers": [2],
+        "description": "Santa Misa",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-14T00:00:00.000Z",
+        "startTime": "20:00",
+        "category": "quinary",
+        "place": 4,
+        "organizers": [3],
+        "description": "Quinario a N. P. Jesús Nazareno",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-15T00:00:00.000Z",
+        "startTime": "11:30",
+        "category": "quinary",
+        "place": 4,
+        "organizers": [3],
+        "description": "Misa y Quinario a N. P. Jesús Nazareno",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-15T00:00:00.000Z",
+        "startTime": "17:30",
+        "category": "veneration",
+        "place": 4,
+        "organizers": [3],
+        "description": "Besapié a N. P. Jesús Nazareno",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-15T00:00:00.000Z",
+        "startTime": "19:30",
+        "category": "triduum",
+        "place": 2,
+        "organizers": [1],
+        "description": "Triduo a la Santa Vera Cruz - Lignum Crucis",
+        "president": "D. Manuel González Domínguez, sacerdote hermano",
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-18T00:00:00.000Z",
+        "startTime": "19:30",
+        "category": "triduum",
+        "place": 10,
+        "organizers": [9],
+        "description": "Triduo a Nuestro Padre Jesús de la Sentencia",
+        "president": "Rvdo. Padre D. Pablo Fernández",
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-19T00:00:00.000Z",
+        "startTime": "19:30",
+        "category": "triduum",
+        "place": 10,
+        "organizers": [9],
+        "description": "Triduo a Nuestro Padre Jesús de la Sentencia",
+        "president": "Rvdo. Padre D. Pablo Fernández",
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-19T00:00:00.000Z",
+        "startTime": "19:30",
+        "category": "via-crucis",
+        "place": 3,
+        "organizers": [2],
+        "description": "Solemne Triduo al Santo Sepulcro - Viacrucis",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-19T00:00:00.000Z",
+        "startTime": "20:00",
+        "category": "mass",
+        "place": 3,
+        "organizers": [2],
+        "description": "Solemne Triduo al Santo Sepulcro - Eucaristía",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-20T00:00:00.000Z",
+        "startTime": "10:00",
+        "category": "veneration",
+        "place": 10,
+        "organizers": [9],
+        "description": "Veneración a Nuestro Padre Jesús de la Sentencia",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-20T00:00:00.000Z",
+        "startTime": "19:30",
+        "category": "triduum",
+        "place": 10,
+        "organizers": [9],
+        "description": "Triduo a Nuestro Padre Jesús de la Sentencia",
+        "president": "Rvdo. Padre D. Pablo Fernández",
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-20T00:00:00.000Z",
+        "startTime": "19:30",
+        "category": "via-crucis",
+        "place": 2,
+        "organizers": [1],
+        "description": "Vía Crucis de Cuaresma",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-20T00:00:00.000Z",
+        "startTime": "19:30",
+        "category": "via-crucis",
+        "place": 3,
+        "organizers": [2],
+        "description": "Solemne Triduo al Santo Sepulcro - Viacrucis",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-20T00:00:00.000Z",
+        "startTime": "20:00",
+        "category": "mass",
+        "place": 3,
+        "organizers": [2],
+        "description": "Solemne Triduo al Santo Sepulcro - Eucaristía",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-21T00:00:00.000Z",
+        "startTime": "12:00",
+        "category": "veneration",
+        "place": 3,
+        "organizers": [2],
+        "description": "Solemne Veneración al Santo Sepulcro",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-21T00:00:00.000Z",
+        "startTime": "12:30",
+        "category": "septenary",
+        "place": 5,
+        "organizers": [4],
+        "description": "Solemne Septenario en honor y gloria a Nuestra Señora de la Soledad",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-21T00:00:00.000Z",
+        "startTime": "17:00",
+        "category": "veneration",
+        "place": 3,
+        "organizers": [2],
+        "description": "Solemne Veneración al Santo Sepulcro",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-21T00:00:00.000Z",
+        "startTime": "19:30",
+        "category": "via-crucis",
+        "place": 3,
+        "organizers": [2],
+        "description": "Solemne Triduo al Santo Sepulcro - Viacrucis",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-21T00:00:00.000Z",
+        "startTime": "20:00",
+        "category": "mass",
+        "place": 3,
+        "organizers": [2],
+        "description": "Solemne Triduo al Santo Sepulcro - Eucaristía",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-22T00:00:00.000Z",
+        "startTime": "12:00",
+        "category": "septenary",
+        "place": 5,
+        "organizers": [4],
+        "description": "Solemne Septenario en honor y gloria a Nuestra Señora de la Soledad",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-22T00:00:00.000Z",
+        "startTime": "12:00",
+        "category": "mass",
+        "place": 5,
+        "organizers": [4],
+        "description": "Santa Misa de Comunión General y Jura de Varas",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-22T00:00:00.000Z",
+        "startTime": "18:30",
+        "category": "traslado",
+        "place": 3,
+        "organizers": [2],
+        "description": "Solemne Traslado Procesional del Santo Sepulcro a la S.I. Catedral",
+        "president": null,
+        "musicalAccompaniment": "Banda de CC. y TT. de la Santísima Trinidad (Palencia)"
+    },
+    {
+        "date": "2026-03-23T00:00:00.000Z",
+        "startTime": "12:30",
+        "category": "septenary",
+        "place": 5,
+        "organizers": [4],
+        "description": "Solemne Septenario en honor y gloria a Nuestra Señora de la Soledad",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-24T00:00:00.000Z",
+        "startTime": "12:30",
+        "category": "septenary",
+        "place": 5,
+        "organizers": [4],
+        "description": "Solemne Septenario en honor y gloria a Nuestra Señora de la Soledad",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-25T00:00:00.000Z",
+        "startTime": "12:30",
+        "category": "septenary",
+        "place": 5,
+        "organizers": [4],
+        "description": "Solemne Septenario en honor y gloria a Nuestra Señora de la Soledad",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-27T00:00:00.000Z",
+        "startTime": "17:00",
+        "category": "traslado",
+        "place": 10,
+        "organizers": [9],
+        "description": "Traslado de Nuestro Padre Jesús de la Sentencia a la S.I. Catedral",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-26T00:00:00.000Z",
+        "startTime": "12:30",
+        "category": "septenary",
+        "place": 5,
+        "organizers": [4],
+        "description": "Solemne Septenario en honor y gloria a Nuestra Señora de la Soledad",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-27T00:00:00.000Z",
+        "startTime": "11:00",
+        "category": "veneration",
+        "place": 9,
+        "organizers": [8],
+        "description": "Solemne Besamanos a la Santísima Virgen de la Piedad",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-27T00:00:00.000Z",
+        "startTime": "12:00",
+        "category": "via-crucis",
+        "place": 5,
+        "organizers": [4],
+        "description": "Viacrucis",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-27T00:00:00.000Z",
+        "startTime": "12:30",
+        "category": "septenary",
+        "place": 5,
+        "organizers": [4],
+        "description": "Solemne Septenario en honor y gloria a Nuestra Señora de la Soledad",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-27T00:00:00.000Z",
+        "startTime": "19:30",
+        "category": "via-crucis",
+        "place": 2,
+        "organizers": [1],
+        "description": "Vía Crucis de Cuaresma",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-27T00:00:00.000Z",
+        "startTime": "23:00",
+        "category": "salve",
+        "place": 9,
+        "organizers": [8],
+        "description": "Salve solemne",
+        "president": null,
+        "musicalAccompaniment": null
+    }
+]

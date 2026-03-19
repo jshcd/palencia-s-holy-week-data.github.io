@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "name": "S. I. Catedral de San Antolín",
+        "address": "Plaza de la Inmaculada",
+        "latitude": 42.01119047746463,
+        "longitude": -4.536806446726633
+    },
+    {
+        "id": 2,
+        "name": "Iglesia Conventual de San Pablo (PP. Dominicos)",
+        "address": "Plaza de San Pablo 2",
+        "latitude": 42.01419857512422,
+        "longitude": -4.536382158208777
+    },
+    {
+        "id": 3,
+        "name": "Capilla del Santo Sepulcro",
+        "address": "Calle Lope de Vega 10",
+        "latitude": 42.01316480109552,
+        "longitude": -4.5316642361822
+    },
+    {
+        "id": 4,
+        "name": "Capilla de Jesús Nazareno",
+        "address": "Plaza de San Pablo 7",
+        "latitude": 42.01421743072447,
+        "longitude": -4.536709148930259
+    },
+    {
+        "id": 5,
+        "name": "Iglesia de la Soledad",
+        "address": "Calle Ignacio Martínez de Azcoitia s/n",
+        "latitude": 42.01135790105171,
+        "longitude": -4.532787207408839
+    },
+    {
+        "id": 6,
+        "name": "Iglesia de Nuestra Señora de la Calle",
+        "address": "Plaza de Isabel la Católica 3",
+        "latitude": 42.00948897295724,
+        "longitude": -4.534268538900768
+    },
+    {
+        "id": 7,
+        "name": "Iglesia de San Francisco",
+        "address": "Plaza de San Francisco 1",
+        "latitude": 42.01137284790261,
+        "longitude": -4.532305750887585
+    },
+    {
+        "id": 8,
+        "name": "Iglesia de San Miguel",
+        "address": "Plaza de San Miguel 2",
+        "latitude": 42.00782280217298,
+        "longitude": -4.534658478500393
+    },
+    {
+        "id": 9,
+        "name": "Iglesia Penitencial de San Agustín",
+        "address": "Calle Mayor Principal 7",
+        "latitude": 42.01301864178811,
+        "longitude": -4.533970524459747
+    },
+    {
+        "id": 10,
+        "name": "Capilla del Monasterio de la Expectación (MM. Agustinas Recoletas)",
+        "address": "Calle Jorge Manrique",
+        "latitude": 42.011349449751904,
+        "longitude": -4.535915748668187
+    },
+    {
+        "id": 11,
+        "name": "Iglesia Parroquial de Santa Marina",
+        "address": "Plaza Juan XXIII 1",
+        "latitude": 42.013584587328445,
+        "longitude": -4.538259531133396
+    },
+    {
+        "id": 12,
+        "name": "Teatro Principal",
+        "address": "Calle Burgos 3",
+        "latitude": 42.00973967031596,
+        "longitude": -4.530780574857796
+    },
+    {
+        "id": 13,
+        "name": "Casino de Palencia",
+        "address": "Calle Mayor Principal 35",
+        "latitude": 42.00948071944897,
+        "longitude": -4.532831282576141
+    }
+]

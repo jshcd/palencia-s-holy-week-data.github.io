@@ -1,0 +1,338 @@
+[
+	{
+		"id": 1,
+		"name": "Nuestro Padre Jesús de la Sentencia",
+		"author": "Ventura Gómez Rodríguez",
+		"creationTime": "2011",
+		"description": "Consta además de un soldado romano del mismo autor realizado en 2013",
+		"photoUrl": "http://monitoressafa.freehostia.com/jsoft/palencia-s-holy-week/img/procesionalFloats/001_nuestro-padre-jesus-de-la-sentencia_ventura-gomez-rodriguez.jpg"
+	},
+	{
+		"id": 2,
+		"name": "San Francisco de Asís",
+		"author": "Vda. de Rixach",
+		"creationTime": "s. XX",
+		"description": null,
+		"photoUrl": "http://monitoressafa.freehostia.com/jsoft/palencia-s-holy-week/img/procesionalFloats/002_san-francisco-de-asis_vda-de-rixach.jpg"
+	},
+	{
+		"id": 3,
+		"name": "Santísima Virgen de la Piedad",
+		"author": "Hermanos Martínez",
+		"creationTime": "2004",
+		"description": null,
+		"photoUrl": "http://monitoressafa.freehostia.com/jsoft/palencia-s-holy-week/img/procesionalFloats/003_santisima-virgen-de-la-piedad_hermanos-martinez.jpg"
+	},
+	{
+		"id": 4,
+		"name": "Entrada de Jesús en Jerusalén",
+		"author": "Víctor de los Ríos",
+		"creationTime": "1956",
+		"description": null,
+		"photoUrl": "http://monitoressafa.freehostia.com/jsoft/palencia-s-holy-week/img/procesionalFloats/004_entrada-de-jesus-en-jerusalen_victor-de-los-rios.jpg"
+	},
+	{
+		"id": 5,
+		"name": "Santísimo Cristo de la Vera Cruz",
+		"author": null,
+		"creationTime": "1522",
+		"description": null,
+		"photoUrl": "http://monitoressafa.freehostia.com/jsoft/palencia-s-holy-week/img/procesionalFloats/005_santisimo-cristo-de-la-vera-cruz_anonymous.jpg"
+	},
+	{
+		"id": 6,
+		"name": "Nuestra Señora del Dolor",
+		"author": null,
+		"creationTime": "s. XIX",
+		"description": null,
+		"photoUrl": "http://monitoressafa.freehostia.com/jsoft/palencia-s-holy-week/img/procesionalFloats/006_nuestra-señora-del-dolor_anonymous.jpg"
+	},
+	{
+		"id": 7,
+		"name": "Nuestro Padre Jesús Crucificado",
+		"author": "Alejo de Vahía",
+		"creationTime": "s. XV",
+		"description": null,
+		"photoUrl": "http://monitoressafa.freehostia.com/jsoft/palencia-s-holy-week/img/procesionalFloats/007_nuestro-padre-jesus-crucificado_alejo-de-vahia.jpg"
+	},
+	{
+		"id": 8,
+		"name": "La traición de Judas",
+		"author": "Carlos Guerra del Moral",
+		"creationTime": "2005",
+		"description": null,
+		"photoUrl": "http://monitoressafa.freehostia.com/jsoft/palencia-s-holy-week/img/procesionalFloats/008_la-traicion-de-judas_carlos-guerra-del-moral.jpg"
+	},
+	{
+		"id": 9,
+		"name": "Nuestro Padre Jesús de Medinaceli",
+		"author": null,
+		"creationTime": "s. XVII",
+		"description": null,
+		"photoUrl": "http://monitoressafa.freehostia.com/jsoft/palencia-s-holy-week/img/procesionalFloats/009_nuestro-padre-jesus-de-medinaceli_anonymous.jpg"
+	},
+	{
+		"id": 10,
+		"name": "Nuestra Señora de la Soledad",
+		"author": null,
+		"creationTime": "s. XVIII",
+		"description": null,
+		"photoUrl": "http://monitoressafa.freehostia.com/jsoft/palencia-s-holy-week/img/procesionalFloats/010_nuestra-señora-de-la-soledad_anonymous.jpg"
+	},
+	{
+		"id": 11,
+		"name": "Nuestra Señora del Perdón",
+		"author": "Óscar Salmerón",
+		"creationTime": "2018",
+		"description": null,
+		"photoUrl": "http://monitoressafa.freehostia.com/jsoft/palencia-s-holy-week/img/procesionalFloats/011_nuestra-señora-del-perdon_oscar-salmeron.jpg"
+	},
+	{
+		"id": 12,
+		"name": "Santísimo Cristo de la Misericordia",
+		"author": "Juan de Valmaseda",
+		"creationTime": "s. XVI",
+		"description": null,
+		"photoUrl": "http://monitoressafa.freehostia.com/jsoft/palencia-s-holy-week/img/procesionalFloats/012_santisimo-cristo-de-la-misericordia_juan-de-valmaseda.jpg"
+	},
+	{
+		"id": 13,
+		"name": "Santo Cristo Señor de la Vida y de la Muerte",
+		"author": "Hermanos Martínez",
+		"creationTime": "2003",
+		"description": null,
+		"photoUrl": "http://monitoressafa.freehostia.com/jsoft/palencia-s-holy-week/img/procesionalFloats/013_santo-cristo-señor-de-la-vida-y-de-la-muerte_hermanos-martinez.jpg"
+	},
+	{
+		"id": 14,
+		"name": "Nuestra Señora de los Ángeles",
+		"author": "Esteban Sánchez Rosado",
+		"creationTime": "2017",
+		"description": null,
+		"photoUrl": "http://monitoressafa.freehostia.com/jsoft/palencia-s-holy-week/img/procesionalFloats/014_nuestra-señora-de-los-angeles_esteban-sanchez-rosado.jpg"
+	},
+	{
+		"id": 15,
+		"name": "Quinta Angustia",
+		"author": "Antonio de Amusco",
+		"creationTime": "1607",
+		"description": null,
+		"photoUrl": "http://monitoressafa.freehostia.com/jsoft/palencia-s-holy-week/img/procesionalFloats/015_quinta-angustia_antonio-de-amusco.jpg"
+	},
+	{
+		"id": 16,
+		"name": "Santísimo Cristo del Perdón",
+		"author": "Miguel Ángel Rojo",
+		"creationTime": "2003",
+		"description": null,
+		"photoUrl": "http://monitoressafa.freehostia.com/jsoft/palencia-s-holy-week/img/procesionalFloats/016_santisimo-cristo-del-perdon_miguel-angel-rojo.jpg"
+	},
+	{
+		"id": 17,
+		"name": "Cristo del Otero de San Pablo",
+		"author": "Escuela palentina",
+		"creationTime": "s. XVII",
+		"description": null,
+		"photoUrl": "http://monitoressafa.freehostia.com/jsoft/palencia-s-holy-week/img/procesionalFloats/017_cristo-del-otero-de-san-pablo_escuela-palentina.jpg"
+	},
+	{
+		"id": 18,
+		"name": "San Juan Evangelista",
+		"author": "Galo Conesa",
+		"creationTime": "2022",
+		"description": null,
+		"photoUrl": null
+	},
+	{
+		"id": 19,
+		"name": "Lavatorio",
+		"author": "Melchor Gutiérrez y V. Ramsés Gutiérrez",
+		"creationTime": "2002",
+		"description": null,
+		"photoUrl": "http://monitoressafa.freehostia.com/jsoft/palencia-s-holy-week/img/procesionalFloats/019_lavatorio_melchor-gutierrez.jpg"
+	},
+	{
+		"id": 20,
+		"name": "Sagrada Cena del Señor",
+		"author": "Melchor Gutiérrez y V. Ramsés Gutiérrez",
+		"creationTime": "2006",
+		"description": null,
+		"photoUrl": "http://monitoressafa.freehostia.com/jsoft/palencia-s-holy-week/img/procesionalFloats/020_sagrada-cena-del-señor_melchor-gutierrez-y-v-ramses-gutierrez.jpg"
+	},
+	{
+		"id": 21,
+		"name": "Oración en el Huerto",
+		"author": null,
+		"creationTime": "1672",
+		"description": "La imagen de Jesús va acompañada de un ángel realizado en el s. XX",
+		"photoUrl": "http://monitoressafa.freehostia.com/jsoft/palencia-s-holy-week/img/procesionalFloats/021_oracion-del-huerto_anonymous.jpg"
+	},
+	{
+		"id": 22,
+		"name": "Las lágrimas de San Pedro",
+		"author": null,
+		"creationTime": "1918",
+		"description": null,
+		"photoUrl": "http://monitoressafa.freehostia.com/jsoft/palencia-s-holy-week/img/procesionalFloats/022_las-lagrimas-de-san-pedro_anonymous.jpg"
+	},
+	{
+		"id": 23,
+		"name": "Jesús atado a la Columna",
+		"author": null,
+		"creationTime": "s. XVII",
+		"description": null,
+		"photoUrl": "http://monitoressafa.freehostia.com/jsoft/palencia-s-holy-week/img/procesionalFloats/023_jesus-atado-a-la-columna_anonymous.jpg"
+	},
+	{
+		"id": 24,
+		"name": "Jesús Coronado de Espinas (Ecce Homo)",
+		"author": "Escuela castellana",
+		"creationTime": "s. XVII",
+		"description": null,
+		"photoUrl": "http://monitoressafa.freehostia.com/jsoft/palencia-s-holy-week/img/procesionalFloats/024_jesus-coronado-de-espinas-ecce-homo_escuela-castellana.jpg"
+	},
+	{
+		"id": 25,
+		"name": "Yacente",
+		"author": null,
+		"creationTime": "s. XVI",
+		"description": null,
+		"photoUrl": "http://monitoressafa.freehostia.com/jsoft/palencia-s-holy-week/img/procesionalFloats/025_yacente_anonymous.jpg"
+	},
+	{
+		"id": 26,
+		"name": "San Juan",
+		"author": "Melchor Gutiérrez",
+		"creationTime": "2006",
+		"description": null,
+		"photoUrl": "http://monitoressafa.freehostia.com/jsoft/palencia-s-holy-week/img/procesionalFloats/026_san-juan_melchor-gutierrez.jpg"
+	},
+	{
+		"id": 27,
+		"name": "Virgen infantil",
+		"author": "",
+		"creationTime": "2011",
+		"description": null,
+		"photoUrl": null
+	},
+	{
+		"id": 28,
+		"name": "Nuestra Señora de la Vera Cruz",
+		"author": "Melchor Gutiérrez",
+		"creationTime": "1997",
+		"description": null,
+		"photoUrl": "http://monitoressafa.freehostia.com/jsoft/palencia-s-holy-week/img/procesionalFloats/028_nuestra-señora-de-la-vera-cruz_melchor-gutierrez.jpg"
+	},
+	{
+		"id": 29,
+		"name": "Santa Vera Cruz-Lignum Crucis",
+		"author": "G. Portilla, T. de Sierra y F. Fernández",
+		"creationTime": "1729",
+		"description": null,
+		"photoUrl": "http://monitoressafa.freehostia.com/jsoft/palencia-s-holy-week/img/procesionalFloats/029_santa-vera-cruz-lignum-crucis_g-portilla-tomas-de-la-sierra-y-f-fernandez.jpg"
+	},
+	{
+		"id": 30,
+		"name": "Nuestro Padre Jesús Nazareno",
+		"author": "Tomás de la Sierra",
+		"creationTime": "1717",
+		"description": null,
+		"photoUrl": "http://monitoressafa.freehostia.com/jsoft/palencia-s-holy-week/img/procesionalFloats/030_nuestro-padre-jesus-nazareno_tomas-de-la-sierra.jpg"
+	},
+	{
+		"id": 31,
+		"name": "Jesús Nazareno con el Cirineo",
+		"author": "Víctor de los Ríos",
+		"creationTime": "1955",
+		"description": null,
+		"photoUrl": "http://monitoressafa.freehostia.com/jsoft/palencia-s-holy-week/img/procesionalFloats/031_jesus-nazareno-con-el-cirineo_victor-de-los-rios.jpg"
+	},
+	{
+		"id": 32,
+		"name": "La Verónica",
+		"author": "José de Rozas, Antonio Vázquez y Bernardo López de Frías",
+		"creationTime": "1694",
+		"description": null,
+		"photoUrl": "http://monitoressafa.freehostia.com/jsoft/palencia-s-holy-week/img/procesionalFloats/032_la-veronica_jose-de-rozas-antonio-vazquez-y-bernardo-lopez-de-frias.jpg"
+	},
+	{
+		"id": 33,
+		"name": "La Erección de la Cruz",
+		"author": "Lucas Sanz de Torrecilla",
+		"creationTime": "1614",
+		"description": null,
+		"photoUrl": "http://monitoressafa.freehostia.com/jsoft/palencia-s-holy-week/img/procesionalFloats/033_la-ereccion-de-la-cruz_lucas-sanz-de-torrecilla.jpg"
+	},
+	{
+		"id": 34,
+		"name": "Longinos",
+		"author": "José de Rozas y Antonio Vázquez",
+		"creationTime": "1692",
+		"description": null,
+		"photoUrl": "http://monitoressafa.freehostia.com/jsoft/palencia-s-holy-week/img/procesionalFloats/034_longinos_jose-de-rozas-y-antonio-vazquez.jpg"
+	},
+	{
+		"id": 35,
+		"name": "Nuestra Madre la Virgen de la Amargura",
+		"author": "Víctor de los Ríos",
+		"creationTime": "1955",
+		"description": null,
+		"photoUrl": "http://monitoressafa.freehostia.com/jsoft/palencia-s-holy-week/img/procesionalFloats/035_nuestra-madre-la-virgen-de-la-amargura_victor-de-los-rios.jpg"
+	},
+	{
+		"id": 36,
+		"name": "Cristo del Desenclavo",
+		"author": "Miguel Ángel Rojo",
+		"creationTime": "2003",
+		"description": null,
+		"photoUrl": "http://monitoressafa.freehostia.com/jsoft/palencia-s-holy-week/img/procesionalFloats/036_cristo-del-desenclavo_miguel-angel-rojo.jpg"
+	},
+	{
+		"id": 37,
+		"name": "El Calvario",
+		"author": "Miguel Ángel Rojo",
+		"creationTime": "2007",
+		"description": null,
+		"photoUrl": "http://monitoressafa.freehostia.com/jsoft/palencia-s-holy-week/img/procesionalFloats/037_el-calvario_miguel-angel-rojo.jpg"
+	},
+	{
+		"id": 38,
+		"name": "Nuestra Madre Dolorosa",
+		"author": null,
+		"creationTime": "s. XIX",
+		"description": null,
+		"photoUrl": "http://monitoressafa.freehostia.com/jsoft/palencia-s-holy-week/img/procesionalFloats/038_nuestra-madre-dolorosa_anonymous.jpg"
+	},
+	{
+		"id": 39,
+		"name": "Descendimiento de Jesús",
+		"author": "Miguel Ángel Rojo",
+		"creationTime": "2002",
+		"description": null,
+		"photoUrl": "http://monitoressafa.freehostia.com/jsoft/palencia-s-holy-week/img/procesionalFloats/039_descendimiento-de-jesus_miguel-angel-rojo.jpg"
+	},
+	{
+		"id": 40,
+		"name": "Santo Sepulcro",
+		"author": "Ramón Núñez",
+		"creationTime": "1927",
+		"description": null,
+		"photoUrl": "http://monitoressafa.freehostia.com/jsoft/palencia-s-holy-week/img/procesionalFloats/040_santo-sepulcro_ramon-nuñez.jpg"
+	},
+	{
+		"id": 41,
+		"name": "Virgen de los Siete Dolores",
+		"author": "Vicente Espinet",
+		"creationTime": "1906",
+		"description": null,
+		"photoUrl": "http://monitoressafa.freehostia.com/jsoft/palencia-s-holy-week/img/procesionalFloats/041_virgen-de-los-siete-dolores_vicente-espinet.jpg"
+	},
+	{
+		"id": 42,
+		"name": "Virgen del Rompimiento",
+		"author": null,
+		"creationTime": "1929",
+		"description": null,
+		"photoUrl": "http://monitoressafa.freehostia.com/jsoft/palencia-s-holy-week/img/procesionalFloats/042_virgen-del-rompimiento_anonymous.jpg"
+	}
+]

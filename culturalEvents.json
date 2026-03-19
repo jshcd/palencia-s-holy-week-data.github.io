@@ -1,0 +1,160 @@
+[
+    {
+        "startTime": "2026-03-07T20:00:00.000Z",
+        "description": "Charla conferencia sobre la Mantilla Española",
+        "speakers": [
+            "D. José Martín",
+            "D. José Ramón Aparicio"
+        ],
+        "performers": null,
+        "place": 13,
+        "organizers": [1]
+    },
+    {
+        "startTime": "2026-03-10T20:00:00.000Z",
+        "description": "CultuPiedad: Conferencia \"800 años tras San Francisco: Cómo vivir hoy sus valores\"",
+        "speakers": [
+            "Fr. Antonio Fernández Redondo O.F.M., Párroco de S. Antonio de Padua (Ávila)"
+        ],
+        "performers": null,
+        "place": 9,
+        "organizers": [8]
+    },
+    {
+        "startTime": "2026-03-11T20:00:00.000Z",
+        "description": "CultuPiedad: Mesa Redonda \"María, junto a Cristo ¿Corredentora?\"",
+        "speakers": [
+            "D. Isaac Gento Municio, Párroco solidario de Saldaña",
+            "D. Juan Argüello Sánchez, Formador del Seminario Diocesano de Valladolid"
+        ],
+        "performers": null,
+        "place": 9,
+        "organizers": [8]
+    },
+    {
+        "startTime": "2026-03-12T20:30:00.000Z",
+        "description": "Pórtico: Teatro \"Pasión\"",
+        "speakers": null,
+        "performers": [
+            "Grupo Corsario"
+        ],
+        "place": 12,
+        "organizers": null
+    },
+    {
+        "startTime": "2026-03-13T17:30:00.000Z",
+        "description": "Jornada de Puertas Abiertas",
+        "speakers": null,
+        "performers": null,
+        "place": 9,
+        "organizers": [8]
+    },
+    {
+        "startTime": "2026-03-13T20:00:00.000Z",
+        "description": "Pórtico: Concierto",
+        "speakers": null,
+        "performers": [
+            "Ad Libitum"
+        ],
+        "place": 5,
+        "organizers": null
+    },
+    {
+        "startTime": "2026-03-14T11:00:00.000Z",
+        "description": "Jornada de Puertas Abiertas",
+        "speakers": null,
+        "performers": null,
+        "place": 9,
+        "organizers": [8]
+    },
+    {
+        "startTime": "2026-03-14T17:30:00.000Z",
+        "description": "Jornada de Puertas Abiertas",
+        "speakers": null,
+        "performers": null,
+        "place": 9,
+        "organizers": [8]
+    },
+    {
+        "startTime": "2026-03-14T20:00:00.000Z",
+        "description": "Pórtico: Concierto",
+        "speakers": null,
+        "performers": [
+            "Camerata Vocal Bella Desconocida"
+        ],
+        "place": 1,
+        "organizers": null
+    },
+    {
+        "startTime": "2026-03-14T20:00:00.000Z",
+        "description": "Concierto a sus imágenes y hermanos",
+        "speakers": null,
+        "performers": [
+            "Banda de CC. y TT. de los Nazarenos"
+        ],
+        "place": 4,
+        "organizers": [3]
+    },
+    {
+        "startTime": "2026-03-15T11:00:00.000Z",
+        "description": "Jornada de Puertas Abiertas",
+        "speakers": null,
+        "performers": null,
+        "place": 9,
+        "organizers": [8]
+    },
+    {
+        "startTime": "2026-03-19T20:00:00.000Z",
+        "description": "Pórtico: Poesía Vidual y Teatralizada \"Vía Crucis de Gerardo Diego\"",
+        "speakers": null,
+        "performers": [
+            "Via Crucis Lux Mundi Inmolata"
+        ],
+        "place": 5,
+        "organizers": null
+    },
+    {
+        "startTime": "2026-03-20T20:00:00.000Z",
+        "description": "Pórtico: Pregón de la Semana Santa de Palencia",
+        "speakers": [
+            "R. P. Juan Carlos Ramos"
+        ],
+        "performers": [
+            "Ad Libitum",
+            "Gonzalo Aparicio Cordón"
+        ],
+        "place": 12,
+        "organizers": null
+    },
+    {
+        "startTime": "2026-03-21T20:30:00.000Z",
+        "description": "Pórtico: Concierto",
+        "speakers": null,
+        "performers": [
+            "Regina Angelorum"
+        ],
+        "place": 2,
+        "organizers": null
+    },
+    {
+        "startTime": "2026-03-22T19:30:00.000Z",
+        "description": "Concierto: \"Pasión y Música\"",
+        "speakers": null,
+        "performers": [
+            "A. M. Santa Vera Cruz",
+            "Banda Sinfónica de Cigales"
+        ],
+        "place": 11,
+        "organizers": [1]
+    },
+    {
+        "startTime": "2026-04-11T20:00:00.000Z",
+        "description": "Concierto benéfico a favor de la Bolsa de Caridad de la Hermandad de Cofradáis Penitenciales de Palencia. Puntos de venta: Librería Iglesias (Mayor y San Juan de Dios) y Cofradías Penitenciales de Palencia",
+        "speakers": null,
+        "performers": [
+            "Joven Orquesta Sinfónica de Castilla y León"
+        ],
+        "place": 1,
+        "organizers": null
+    }
+]

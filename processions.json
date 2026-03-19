@@ -1,0 +1,741 @@
+[
+	{
+		"id": 1,
+		"name": "Procesión de la Sentencia",
+		"organizers": [
+			9
+		],
+		"day": "friday_of_sorrows",
+		"startTime": "19:30",
+		"routes": [
+			{
+				"routeName": null,
+				"route": [
+					"Convento MM. Agustinas Recoletas",
+					"[19:30] Gil de Fuentes",
+					"[20:00] Jorge Manrique (Ofrecimiento a María Santísima de la Esperanza - Capilla MM. Agustinas Recoletas)",
+					"Plaza de la Inmaculada",
+					"[20:20] Santo San Pedro (Oración a los Difuntos)",
+					"Árbol del Paraíso",
+					"Plaza del Cordón",
+					"San Marcos",
+					"Gil de Fuentes",
+					"Plaza de Isabel la Católica",
+					"La Cestilla",
+					"[20:50] Cuatro Cantones",
+					"[21:00] Mayor (Lectura de la Sentencia de Cristo - Casino)",
+					"Becerro de Bengoa",
+					"Colón",
+					"Don Sancho",
+					"[22:00] Cuatro Cantones",
+					"Mayor",
+					"Barrio y Mier",
+					"Juan de Castilla",
+					"Gil de Fuentes",
+					"[23:30] Gil de Fuentes (Entrada - Convento MM. Agustinas Recoletas)"
+				]
+			}
+		],
+		"processionalFloats": [
+			1
+		],
+		"mainFloat": 1
+	},
+	{
+		"id": 2,
+		"name": "Procesión de Piedad y Reconciliación",
+		"organizers": [
+			8
+		],
+		"day": "passion_saturday",
+		"startTime": "18:45",
+		"routes": [
+			{
+				"routeName": null,
+				"route": [
+					"[1] Iglesia de San Agustín",
+					"Mayor Principal",
+					"Plaza de León",
+					"Eduardo Dato",
+					"Niños de Coro",
+					"Plaza de San Pablo",
+					"[19:10] [2] Iglesia de San Pablo · PP. Dominicos",
+					"[19:20] [3] Monasterio de la Piedad · MM. Dominicas",
+					"Hermanos Madrid",
+					"Luis Guanella",
+					"Canónigo San Martín",
+					"Cuartel de San Fernando",
+					"Plaza de Cervantes",
+					"Plaza de San Antolín",
+					"[19:40] [4] HH. Ancianos Desamparados (Junto al antiguo monasterio franciscano de San Buenaventura",
+					"Mayor Antigua",
+					"Santo San Pedro",
+					"Plaza de la Inmaculada",
+					"[20:00] [5] Interior de la Santa Iglesia Catedral",
+					"Jorge Manrique",
+					"Juan de Castilla",
+					"Barrio y Mier",
+					"Mayor Principal",
+					"Don Sancho",
+					"Burgos",
+					"[20:30] [6] Iglesia de Santa Clara · HH. Clarisas",
+					"Joaquín Costa",
+					"Plazuela de la Sal",
+					"Plaza Mayor",
+					"[20:50] [7 y Letanía] San Francisco",
+					"Ignacio Martínez de Azcoitia",
+					"Lope de Vega",
+					"[Acto Fraterno] Capilla del Santo Sepulcro",
+					"Valentín Calderón",
+					"Mayor Principal",
+					"[21:30] Iglesia de San Agustín"
+				]
+			}
+		],
+		"processionalFloats": [
+			2, 3
+		],
+		"mainFloat": 3
+	},
+	{
+		"id": 3,
+		"name": "Procesión de la Entrada de Jesús en Jerusalén",
+		"organizers": [
+			2
+		],
+		"day": "palm_sunday",
+		"startTime": "12:00",
+		"routes": [
+			{
+				"routeName": null,
+				"route": [
+					"Plaza de la Inmaculada",
+					"Jorge Manrique",
+					"Gil de Fuentes",
+					"Plaza de Isabel la Católica",
+					"La Cestilla",
+					"Don Sancho",
+					"Burgos",
+					"Plaza de San Lázaro",
+					"Mujer Palentina",
+					"Empedrada",
+					"San Bernardo",
+					"Mayor Principal",
+					"Ignacio Martínez de Azcoitia",
+					"Travesía del Secretario Vázquez",
+					"Plaza Mayor",
+					"[14:00] Acto de la Entrada Triunfal",
+					"Travesía del Secretario Vázquez",
+					"Ignacio Martínez de Azcoitia",
+					"Lope de Vega",
+					"Capilla del Santo Sepulcro"
+				]
+			}
+		],
+		"processionalFloats": [
+			4
+		],
+		"mainFloat": 4
+	},
+	{
+		"id": 4,
+		"name": "Procesión del Santo Rosario del Dolor",
+		"organizers": [
+			1
+		],
+		"day": "palm_sunday",
+		"startTime": "18:00",
+		"routes": [
+			{
+				"routeName": null,
+				"route": [
+					"Calle de la Vera Cruz",
+					"Convento RR. MM. Dominicas · Recogida de Nuestra Señora del Dolor y Primer Misterio",
+					"Plaza de San Pablo",
+					"Iglesia Conventual de San Pablo (PP. Dominicos) · Segundo Misterio e incorporación del Santísimo Cristo de la Vera Cruz",
+					"Plaza de León",
+					"Avenida Antigua Florida",
+					"Avenida de Santander",
+					"Villacasares",
+					"Paseo del Otero",
+					"Iglesia María Estela · Tercer Misterio",
+					"Iglesia de San Ignacio y Santa Inés · Cuarto Misterio",
+					"Ermita del Cristo del Otero · Quinto Misterio y Letanía",
+					"[Regreso] Paseo del Otero",
+					"Villacasares",
+					"Avenida de Santander",
+					"Avenida Antigua Florida",
+					"Plaza de León",
+					"[22:00] Iglesia Conventual de San Pablo (PP. Dominicos) · Oración de Despedida"
+				]
+			}
+		],
+		"processionalFloats": [
+			5, 6
+		],
+		"mainFloat": 6
+	},
+	{
+		"id": 5,
+		"name": "Procesión de las Cinco Llagas",
+		"organizers": [
+			6
+		],
+		"day": "holy_monday",
+		"startTime": "20:30",
+		"routes": [
+			{
+				"routeName": null,
+				"route": [
+					"Plaza de San Francisco · Vestición",
+					"[20:50] Capilla de la Soledad · 1ª Llaga · La Soledad",
+					"Ignacio Martínez de Azcoitia",
+					"Mayor Principal",
+					"[21:20] Iglesia de San Agustín · 2ª Llaga · La Piedad",
+					"Plaza de León",
+					"Plaza de San Pablo",
+					"[21:50] Iglesia Conventual de San Pablo · 3ª Llaga · Cristo Atado a la Columna",
+					"[22:15] Capilla de Jesús Nazareno · 4ª Llaga · Jesús Nazareno",
+					"Santo Domingo de Guzmán",
+					"Plaza de las Carmelitas",
+					"Santa Teresa de Jesús",
+					"Plaza de la Inmaculada",
+					"Santa Iglesia Catedral · Oración Jubilar",
+					"Jorge Manrique",
+					"Juan de Castilla",
+					"Barrio y Mier",
+					"Mayor Principal",
+					"Ignacio Martínez de Azcoitia",
+					"[23:00] Plaza de San Francisco · 5ª Llaga y Despedida"
+				]
+			}
+		],
+		"processionalFloats": [
+			7
+		],
+		"mainFloat": 7
+	},
+	{
+		"id": 6,
+		"name": "Procesión del Prendimiento",
+		"organizers": [
+			3,
+			7
+		],
+		"day": "holy_tuesday",
+		"startTime": "20:00",
+		"routes": [
+			{
+				"routeName": null,
+				"route": [
+					"Capilla de Jesús Nazareno",
+					"Plaza de San Pablo",
+					"Santo Domingo de Guzmán",
+					"Plaza de las Carmelitas",
+					"Santa Teresa de Jesús",
+					"Plaza de la Inmaculada",
+					"Santo San Pedro",
+					"Mayor Antigua",
+					"[21:00] San Miguel · Prendimiento",
+					"Doctrinos",
+					"General Amor",
+					"[21:45] Plaza de Isabel la Católica",
+					"La Cestilla",
+					"[21:50] Mayor Principal",
+					"[22:10] San Agustín · Saludo a La Piedad",
+					"Plaza de León",
+					"Plaza de San Pablo",
+					"[23:00] Capilla de Jesús Nazareno · Despedida"
+				]
+			},
+			{
+				"routeName": "Regreso",
+				"route": [
+					"[23:15] Plaza de San Pablo",
+					"Santo Domingo de Guzmán",
+					"Plaza de las Carmelitas",
+					"Santa Teresa de Jesús",
+					"Plaza de la Inmaculada",
+					"Santo San Pedro",
+					"Mayor Antigua",
+					"[00:00] San Miguel"
+				]
+			}
+		],
+		"processionalFloats": [
+			8, 9
+		],
+		"mainFloat": 9
+	},
+	{
+		"id": 7,
+		"name": "Procesión del Santo Vía Crucis",
+		"organizers": [
+			5
+		],
+		"day": "holy_wednesday",
+		"startTime": "20:00",
+		"routes": [
+			{
+				"routeName": null,
+				"route": [
+					"Plaza de Isabel la Católica",
+					"Menéndez Pelayo",
+					"Barrio y Mier",
+					"Mayor Principal",
+					"Ignacio Martínez de Azcoitia",
+					"Travesía del Secretario Vázquez",
+					"[21:00] Plaza Mayor · Santo Viacrucis",
+					"[21:40] Plaza de San Francisco · Mater Angustia",
+					"Ignacio Martínez de Azcoitia",
+					"Mayor Principal",
+					"La Cestilla",
+					"[22:30] Plaza de Isabel la Católica · Despedida Madre e Hijo",
+					"Iglesia de Nuestra Señora de la Calle"
+				]
+			}
+		],
+		"processionalFloats": [
+			10, 11, 8, 12
+		],
+		"mainFloat": 12
+	},
+	{
+		"id": 8,
+		"name": "Procesión de Luz y Tinieblas",
+		"organizers": [
+			8
+		],
+		"day": "holy_wednesday",
+		"startTime": "22:00",
+		"routes": [
+			{
+				"routeName": null,
+				"route": [
+					"[22:00] Iglesia Penitencial de San Agustín",
+					"Mayor Principal",
+					"Plaza de León",
+					"Eduardo Dato",
+					"Plaza de las Carmelitas",
+					"Santa Teresa de Jesús",
+					"Hospital",
+					"[22:35] Plaza de Cervantes",
+					"Plaza de San Antolín",
+					"Salvino Sierra",
+					"[22:45] Puentecillas",
+					"Sotillo",
+					"Paseo de las Rogativas",
+					"Camino de San Román",
+					"[23:15] Cementerio de Allende el Río · Saludo con el Santo Cristo",
+					"[23:30] Iglesia de Allende el Río · Oración por los difuntos",
+					"Camino de San Román",
+					"Paseo de las Rogativas",
+					"Sotillo",
+					"[00:20] Puentecillas",
+					"Salvino Sierra",
+					"Plaza de San Antolín",
+					"Plaza de Cervantes",
+					"Hospital",
+					"Santa Teresa de Jesús",
+					"Jorge Manrique",
+					"[00:45] Juan de Castilla",
+					"Barrio y Mier",
+					"Mayor Principal",
+					"[01:15] Iglesia Penitencial de San Agustín · Despedida"
+				]
+			}
+		],
+		"processionalFloats": [
+			13, 14
+		],
+		"mainFloat": 13
+	},
+	{
+		"id": 9,
+		"name": "Procesión de la Quinta Angustia, Recuerdo y Perdón",
+		"organizers": [
+			2
+		],
+		"day": "holy_thursday",
+		"startTime": "00:00",
+		"routes": [
+			{
+				"routeName": null,
+				"route": [
+					"[00:00] Capilla del Santo Sepulcro · Lectura de la Promesa de Silencio",
+					"Lope de Vega",
+					"Ignacio Martínez de Azcoitia",
+					"Residencia de San Francisco · Acto de homenaje a nuestros mayores",
+					"Mayor Principal",
+					"Don Sancho",
+					"Joaquín Costa",
+					"Plazuela de la Sal",
+					"Plaza Mayor",
+					"[01:15] Plaza de San Francisco · Acto Penitencial del Recuerdo y Perdón",
+					"Ignacio Martínez de Azcoitia",
+					"Lope de Vega",
+					"[02:15] Capilla del Santo Sepulcro · Rezo de la Salve Popular"
+				]
+			}
+		],
+		"processionalFloats": [
+			15, 16
+		],
+		"mainFloat": 15
+	},
+	{
+		"id": 10,
+		"name": "Procesión del Perdón y el Indulto",
+		"organizers": [
+			5
+		],
+		"day": "holy_thursday",
+		"startTime": "11:15",
+		"routes": [
+			{
+				"routeName": "Virgen y San Juan",
+				"route": [
+					"[11:15] Plaza de Isabel la Católica",
+					"Cardenal Almaraz",
+					"Obispo Lozano",
+					"Plaza de San Miguel",
+					"Mayor Antigua",
+					"[11:45] Iglesia de San Miguel · Reo es de muerte",
+					"Rinconada de San Miguel",
+					"Pedro Fernández del Pulgar",
+					"Marqués de Albaida",
+					"Mayor Principal",
+					"Ignacio Martínez de Azcoitia",
+					"Plaza de San Francisco",
+					"Plaza Mayor"
+				]
+			},
+			{
+				"routeName": "Cristo",
+				"route": [
+					"[11:30] Plaza de Isabel la Católica",
+					"Gil de Fuentes",
+					"San Marcos",
+					"Árbol del Paraíso",
+					"Santo San Pedro",
+					"Plaza de la Inmaculada",
+					"[12:00] Jorge Manrique · Encuentro con las cofradías",
+					"[12:15] Juan de Castilla · Proclama de la Sentencia",
+					"Barrio y Mier",
+					"Mayor Principal",
+					"Ignacio Martínez de Azcoitia",
+					"Travesía del Secretario Vázquez",
+					"Plaza Mayor"
+				]
+			},
+			{
+				"routeName": "Conjunto",
+				"route": [
+					"[13:00] Bocaplaza · Absolución del Reo",
+					"Mayor Principal",
+					"La Cestilla",
+					"[14:00] Plaza de Isabel la Católica · Despedida",
+					"Iglesia de Nuestra Señora de la Calle"
+				]
+			}
+		],
+		"processionalFloats": [
+			7, 12, 9, 17, 11, 18
+		],
+		"mainFloat": 11
+	},
+	{
+		"id": 11,
+		"name": "Procesión de la Oración del Huerto",
+		"organizers": [
+			1
+		],
+		"day": "holy_thursday",
+		"startTime": "20:00",
+		"routes": [
+			{
+				"routeName": null,
+				"route": [
+					"De la Vera Cruz",
+					"Plaza de San Pablo",
+					"Plaza de León",
+					"Mayor Principal",
+					"Iglesia de San Agustín · Saludo al Santísimo",
+					"Ignacio Martínez de Azcoitia",
+					"Travesía del Secretario Vázquez",
+					"Plaza Mayor",
+					"Plazuela de la Sal",
+					"Joaquín Costa",
+					"Colón",
+					"Becerro de Bengoa",
+					"Mayor Principal",
+					"Cuatro Cantones · Al paso de Ntra. Sra. de la Vera Cruz: Canto del Ave María",
+					"Cuatro Cantones · Al paso de la Sta. Vera Cruz - Lignum Crucis: Acto en recuerdo del alma de nuestros hermanos difuntos",
+					"Plaza de León",
+					"Plaza de San Pablo",
+					"De la Vera Cruz",
+					"Capilla de la Santa Vera Cruz · Despedida"
+				]
+			}
+		],
+		"processionalFloats": [
+			19, 20, 21, 22, 23, 24, 17, 25, 26, 27, 28, 29
+		],
+		"mainFloat": 21
+	},
+	{
+		"id": 12,
+		"name": "Procesión del Silencio y Penitencia",
+		"organizers": [
+			3
+		],
+		"day": "good_friday",
+		"startTime": "01:00",
+		"routes": [
+			{
+				"routeName": null,
+				"route": [
+					"Plaza de San Pablo",
+					"Hermanos Madrid",
+					"Plaza Juan XXIII",
+					"Mayor Antigua",
+					"[01:45] Palacio Episcopal · 1ª Caída",
+					"[02:10] Plaza de San Antolín · 2ª Caída",
+					"Santo San Pedro",
+					"Plaza de la Inmaculada",
+					"[02:40] Santa Iglesia Catedral · 3ª Caída",
+					"Santa Teresa de Jesús",
+					"Plaza de las Carmelitas",
+					"Santo Domingo de Guzmán",
+					"Plaza de San Pablo",
+					"[03:00] Capilla de Jesús Nazareno · Soneto y Entrada"
+				]
+			}
+		],
+		"processionalFloats": [
+			30
+		],
+		"mainFloat": 30
+	},
+	{
+		"id": 13,
+		"name": "Procesión de Los Pasos",
+		"organizers": [
+			3
+		],
+		"day": "good_friday",
+		"startTime": "11:00",
+		"routes": [
+			{
+				"routeName": null,
+				"route": [
+					"Plaza de San Pablo",
+					"Santo Domingo de Guzmán",
+					"Plaza de las Carmelitas",
+					"Santa Teresa de Jesús",
+					"[11:45] Plaza de la Inmaculada",
+					"Santo San Pedro",
+					"Árbol del Paraíso",
+					"Plaza del Cordón",
+					"San Marcos",
+					"Gil de Fuentes",
+					"[12:30] Plaza de Isabel la Católica",
+					"La Cestilla",
+					"Don Sancho",
+					"Joaquín Costa",
+					"Plazuela de la Sal",
+					"Plaza Mayor",
+					"Travesía del Secretario Vázquez",
+					"Ignacio Martínez de Azcoitia",
+					"Mayor Principal",
+					"[14:45] Iglesia Penitencial de San Agustín · Saludo a La Piedad",
+					"Plaza de León",
+					"[14:45] Plaza de San Pablo · Acto de ofrenda floral por los difuntos",
+					"Plaza de San Pablo · Despedida de Jesús Nazareno a Nuestra Madre la Virgen de la Amargura",
+					"Capilla de Jesús Nazareno"
+				]
+			}
+		],
+		"processionalFloats": [
+			30, 31, 32, 33, 34, 35
+		],
+		"mainFloat": 31
+	},
+	{
+		"id": 14,
+		"name": "Procesión del Santo Entierro",
+		"organizers": [
+			2
+		],
+		"day": "good_friday",
+		"startTime": "20:00",
+		"routes": [
+			{
+				"routeName": null,
+				"route": [
+					"Santa Iglesia Catedral",
+					"Plaza de la Inmaculada",
+					"Santo San Pedro",
+					"Árbol del Paraíso",
+					"San Marcos",
+					"Gil de Fuentes",
+					"Plaza de Isabel la Católica",
+					"La Cestilla",
+					"Don Sancho",
+					"Burgos",
+					"San Lázaro",
+					"Mujer Palentina",
+					"Empedrada",
+					"San Bernardo",
+					"Mayor Principal",
+					"Ignacio Martínez de Azcoitia",
+					"Travesía del Secretario Vázquez",
+					"[22:00] Plaza Mayor · Miserere y Encuentro de la Virgen Dolorosa con el Cristo Yacente",
+					"Travesía del Secretario Vázquez",
+					"Ignacio Martínez de Azcoitia",
+					"Lope de Vega",
+					"[22:45] Capilla del Santo Sepulcro · Salve popular"
+				]
+			}
+		],
+		"processionalFloats": [
+			16, 12, 37, 7, 38, 39, 3, 10, 40, 41
+		],
+		"mainFloat": 40
+	},
+	{
+		"id": 15,
+		"name": "Procesión de la Soledad de la Virgen",
+		"organizers": [
+			4
+		],
+		"day": "easter_saturday",
+		"startTime": "18:15",
+		"routes": [
+			{
+				"routeName": null,
+				"route": [
+					"Plaza de San Francisco",
+					"Plaza Mayor",
+					"Joaquín Costa",
+					"[19:00] Don Sancho · Incorporación cofradías de la provincia y autoridades",
+					"Mayor Principal",
+					"Plaza de León",
+					"Antonio Maura",
+					"Juan de Castilla",
+					"Jorge Manrique",
+					"[21:30] Plaza de la Inmaculada · Acto principal",
+					"[22:00] Jorge Manrique",
+					"Juan de Castilla",
+					"Barrio y Mier",
+					"Mayor Principal",
+					"Ignacio Martínez de Azcoitia",
+					"[22:30] Plaza de San Francisco · Acto final y despedida"
+				]
+			}
+		],
+		"processionalFloats": [
+			28, 38, 41, 35, 14, 11, 10
+		],
+		"mainFloat": 10
+	},
+	{
+		"id": 16,
+		"name": "Procesión del Dolor",
+		"organizers": [
+			1
+		],
+		"day": "easter_saturday",
+		"startTime": "19:15",
+		"routes": [
+			{
+				"routeName": "Ida",
+				"route": [
+					"De la Vera Cruz",
+					"Plaza de San Pablo",
+					"Hermanos Madrid",
+					"Plaza Juan XXIII",
+					"Mayor Antigua",
+					"Plaza de San Antolín",
+					"Plaza de Cervantes",
+					"Hospital",
+					"Doña Urraca",
+					"Antonio Maura · Incorporación a la procesión de la Soledad de la Virgen"
+				]
+			},
+			{
+				"routeName": "Regreso",
+				"route": [
+					"[22:00] Plaza de la Inmaculada",
+					"Santa Teresa de Jesús",
+					"Plaza de las Carmelitas",
+					"Santo Domingo de Guzmán",
+					"Plaza de San Pablo",
+					"De la Vera Cruz",
+					"Capilla de la Santa Vera Cruz · Oración de despedida"
+				]
+			}
+		],
+		"processionalFloats": [
+			28
+		],
+		"mainFloat": 28
+	},
+	{
+		"id": 17,
+		"name": "Procesión del Rompimiento del Velo",
+		"organizers": [
+			1
+		],
+		"day": "easter_sunday",
+		"startTime": "09:30",
+		"routes": [
+			{
+				"routeName": "Virgen",
+				"route": [
+					"[9:30] Capilla de la Santa Vera Cruz",
+					"De la Vera Cruz",
+					"Plaza de San Pablo",
+					"Santo Domingo de Guzmán",
+					"Plaza de las Carmelitas",
+					"Ramírez",
+					"Gil de Fuentes",
+					"Plaza de Isabel la Católica",
+					"La Cestilla",
+					"Mayor Principal",
+					"Bocaplaza",
+					"Plaza Mayor"
+				]
+			},
+			{
+				"routeName": "Santísimo",
+				"route": [
+					"[9:45] Iglesia Conventual de San Pablo (PP. Dominicos)",
+					"Plaza de San Pablo",
+					"Plaza de León",
+					"Mayor Principal",
+					"Ignacio Martínez de Azcoitia",
+					"Plaza de San Francisco",
+					"Plaza Mayor"
+				]
+			},
+			{
+				"routeName": "Conjunta",
+				"route": [
+					"[10:45] Plaza Mayor · Encuentro y Rompimiento del Velo",
+					"Plazuela de la Sal",
+					"Joaquín Costa",
+					"Don Sancho",
+					"Mayor Principal",
+					"Plaza de León",
+					"Plaza de San Pablo",
+					"Iglesia Conventual de San Pablo (PP. Dominicos)"
+				]
+			}
+		],
+		"processionalFloats": [
+			42
+		],
+		"mainFloat": 42
+	}
+]
