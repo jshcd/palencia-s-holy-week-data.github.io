@@ -1171,6 +1171,16 @@
     },
     {
         "date": "2026-04-04T00:00:00.000Z",
+        "startTime": "11:00",
+        "category": "via-crucis",
+        "place": 14,
+        "organizers": [6],
+        "description": "Viacrucis a Nuestros Mayores",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-04-04T00:00:00.000Z",
         "startTime": "20:00",
         "category": "mass",
         "place": 10,

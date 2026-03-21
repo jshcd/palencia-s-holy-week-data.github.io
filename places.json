@@ -89,5 +89,12 @@
         "address": "Calle Mayor Principal 35",
         "latitude": 42.00948071944897,
         "longitude": -4.532831282576141
-    }
+    },
+	{
+		"id": 14,
+		"name": "Asilo Noviciado Hermanitas de los Ancianos Desamparados",
+		"address": "Calle Mayor Antigua 36",
+		"latitude": 42.01088492910207,
+		"longitude": -4.538184750291937
+	}
 ]
