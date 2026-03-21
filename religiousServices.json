@@ -900,6 +900,126 @@
         "musicalAccompaniment": null
     },
     {
+        "date": "2026-03-28T00:00:00.000Z",
+        "startTime": "11:00",
+        "category": "veneration",
+        "place": 9,
+        "organizers": [8],
+        "description": "Besapié al Cristo Señor de la Vida y de la Muerte (hasta las 22:00)",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-28T00:00:00.000Z",
+        "startTime": "12:15",
+        "category": "mass",
+        "place": 5,
+        "organizers": [4],
+        "description": "Santo Rosario y Santa Misa por los cofrades difuntos",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-28T00:00:00.000Z",
+        "startTime": "19:30",
+        "category": "mass",
+        "place": 8,
+        "organizers": [7],
+        "description": "Lectio Divina de la Pasión",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-29T00:00:00.000Z",
+        "startTime": "10:00",
+        "category": "mass",
+        "place": 10,
+        "organizers": [9],
+        "description": "Misa con bendición de Palmas",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-29T00:00:00.000Z",
+        "startTime": "10:15",
+        "category": "traslado",
+        "place": 3,
+        "organizers": [2],
+        "description": "Procesión Litúrgica (hacia la S.I. Catedral)",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-29T00:00:00.000Z",
+        "startTime": "10:30",
+        "category": "mass",
+        "place": 4,
+        "organizers": [3],
+        "description": "Misa con bendición de Palmas",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-29T00:00:00.000Z",
+        "startTime": "10:45",
+        "category": "mass",
+        "place": 2,
+        "organizers": [1],
+        "description": "Misa con bendición de Palmas",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-29T00:00:00.000Z",
+        "startTime": "10:50",
+        "category": "mass",
+        "place": 1,
+        "organizers": null,
+        "description": "Santa Misa",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-29T00:00:00.000Z",
+        "startTime": "11:00",
+        "category": "mass",
+        "place": 6,
+        "organizers": [5],
+        "description": "Misa con bendición de Palmas",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-29T00:00:00.000Z",
+        "startTime": "11:45",
+        "category": "mass",
+        "place": 5,
+        "organizers": [4],
+        "description": "Misa con bendición de Palmas",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-03-29T00:00:00.000Z",
+        "startTime": "11:45",
+        "category": "mass",
+        "place": 5,
+        "organizers": [4],
+        "description": "Misa con bendición de Palmas",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-04-01T00:00:00.000Z",
+        "startTime": "21:00",
+        "category": "prayer",
+        "place": 9,
+        "organizers": [8],
+        "description": "Ejercicio de Tinieblas",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
         "date": "2026-04-02T00:00:00.000Z",
         "startTime": "16:30",
         "category": "mass",
@@ -958,6 +1078,26 @@
         "description": "Misa in Coena Domini",
         "president": null,
         "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-04-03T00:00:00.000Z",
+        "startTime": "08:45",
+        "category": "prayer",
+        "place": null,
+        "organizers": null,
+        "description": "Visita a los Monumentos",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-04-03T00:00:00.000Z",
+        "startTime": "11:30",
+        "category": "prayer",
+        "place": 6,
+        "organizers": [5],
+        "description": "Las Siete Palabras \"Septem verba\"",
+        "president": null,
+        "musicalAccompaniment": "Skyberet - Piano y Cello"
     },
     {
         "date": "2026-04-03T00:00:00.000Z",
