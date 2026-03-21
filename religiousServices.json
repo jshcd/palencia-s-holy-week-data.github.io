@@ -1062,6 +1062,16 @@
     {
         "date": "2026-04-02T00:00:00.000Z",
         "startTime": "18:00",
+        "category": "veneration",
+        "place": 4,
+        "organizers": [3],
+        "description": "Besapié a N. P. Jesús Nazareno (hasta las 22:00h)",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-04-02T00:00:00.000Z",
+        "startTime": "18:00",
         "category": "mass",
         "place": 2,
         "organizers": [1],
