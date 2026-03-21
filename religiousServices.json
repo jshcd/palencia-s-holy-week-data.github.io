@@ -1181,6 +1181,16 @@
     },
     {
         "date": "2026-04-04T00:00:00.000Z",
+        "startTime": "17:30",
+        "category": "floral-offering",
+        "place": 2,
+        "organizers": [1],
+        "description": "Ofrenda de los Dolores de la Ciudad de Palencia a la Virgen. Se invita a participar a cofrades, particulares, familias, instituciones y entidades palentinas que así lo deseen.",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+	{
+        "date": "2026-04-04T00:00:00.000Z",
         "startTime": "20:00",
         "category": "mass",
         "place": 10,
