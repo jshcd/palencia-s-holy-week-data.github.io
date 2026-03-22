@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Agrupación Musical de la Santa Vera Cruz",
+        "municipality": "Palencia"
+    },
+	{
+        "id": 2,
+        "name": "Banda de CC. y TT. de N. P. Jesús Nazareno",
+        "municipality": "Palencia"
+    },
+	{
+        "id": 3,
+        "name": "Banda de CC. y TT. del Santísimo Cristo de la Misericordia",
+        "municipality": "Palencia"
+    },
+	{
+        "id": 4,
+        "name": "Banda Municipal de Música de Palencia",
+        "municipality": null
+    },
+	{
+        "id": 5,
+        "name": "Banda de CC. y TT. Santísima Trinidad",
+        "municipality": "Palencia"
+    },
+	{
+        "id": 6,
+        "name": "Coro de la \"Quinta Angustia\" y Coro \"Te Deum Chorus\"",
+        "municipality": "Palencia"
+    },
+    {
+        "id": 7,
+        "name": "Banda de CC. y TT. de la Piedad",
+        "municipality": "Valladolid"
+    },
+    {
+        "id": 8,
+        "name": "Agrupación Musical de la Cofradía de la Oración del Huerto y Vera Cruz",
+        "municipality": "Medina del Campo"
+    },
+    {
+        "id": 9,
+        "name": "Agrupación Musical de la Ilustre Cofradía del Santísimo Sacramento y Jesús con la Cruz a Cuestas",
+        "municipality": "Burgos"
+    },
+    {
+        "id": 10,
+        "name": "Banda de CC . y TT. N. P. Jesús Atado a la Columna",
+        "municipality": "Medina del Campo"
+    },
+    {
+        "id": 11,
+        "name": "Agrupación Musical la Flagelación de Jesús",
+        "municipality": "Logroño"
+    },
+    {
+        "id": 12,
+        "name": "Banda Sinfónica de Cigales",
+        "municipality": null
+    },
+    {
+        "id": 13,
+        "name": "Banda Municipal de Música de Villamurel de Cerrato",
+        "municipality": null
+    },
+    {
+        "id": 14,
+        "name": "Camerata Vocal Bella Desconocida",
+        "municipality": "Palencia"
+    },
+    {
+        "id": 15,
+        "name": "Gonzalo Aparicio Cordón y Alfonso Asensio Bartolomé",
+        "municipality": null
+    },
+    {
+        "id": 16,
+        "name": "Banda CC. y TT. del Santísimo Cristo de la Preciosísima Sangre",
+        "municipality": "Valladolid"
+    }
+]
