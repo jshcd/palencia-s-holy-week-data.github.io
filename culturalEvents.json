@@ -1,6 +1,6 @@
 [
     {
-        "startTime": "2026-03-07T20:00:00.000Z",
+        "startTime": "2026-03-07T19:00:00.000Z",
         "description": "Charla conferencia sobre la Mantilla Española",
         "speakers": [
             "D. José Martín",
@@ -11,7 +11,7 @@
         "organizers": [1]
     },
     {
-        "startTime": "2026-03-10T20:00:00.000Z",
+        "startTime": "2026-03-10T19:00:00.000Z",
         "description": "CultuPiedad: Conferencia \"800 años tras San Francisco: Cómo vivir hoy sus valores\"",
         "speakers": [
             "Fr. Antonio Fernández Redondo O.F.M., Párroco de S. Antonio de Padua (Ávila)"
@@ -21,7 +21,7 @@
         "organizers": [8]
     },
     {
-        "startTime": "2026-03-11T20:00:00.000Z",
+        "startTime": "2026-03-11T19:00:00.000Z",
         "description": "CultuPiedad: Mesa Redonda \"María, junto a Cristo ¿Corredentora?\"",
         "speakers": [
             "D. Isaac Gento Municio, Párroco solidario de Saldaña",
@@ -32,7 +32,7 @@
         "organizers": [8]
     },
     {
-        "startTime": "2026-03-12T20:30:00.000Z",
+        "startTime": "2026-03-12T19:30:00.000Z",
         "description": "Pórtico: Teatro \"Pasión\"",
         "speakers": null,
         "performers": [
@@ -42,7 +42,7 @@
         "organizers": null
     },
     {
-        "startTime": "2026-03-13T17:30:00.000Z",
+        "startTime": "2026-03-13T16:30:00.000Z",
         "description": "Jornada de Puertas Abiertas",
         "speakers": null,
         "performers": null,
@@ -50,7 +50,7 @@
         "organizers": [8]
     },
     {
-        "startTime": "2026-03-13T20:00:00.000Z",
+        "startTime": "2026-03-13T19:00:00.000Z",
         "description": "Pórtico: Concierto",
         "speakers": null,
         "performers": [
@@ -60,7 +60,7 @@
         "organizers": null
     },
     {
-        "startTime": "2026-03-14T11:00:00.000Z",
+        "startTime": "2026-03-14T10:00:00.000Z",
         "description": "Jornada de Puertas Abiertas",
         "speakers": null,
         "performers": null,
@@ -68,7 +68,7 @@
         "organizers": [8]
     },
     {
-        "startTime": "2026-03-14T17:30:00.000Z",
+        "startTime": "2026-03-14T16:30:00.000Z",
         "description": "Jornada de Puertas Abiertas",
         "speakers": null,
         "performers": null,
@@ -76,7 +76,7 @@
         "organizers": [8]
     },
     {
-        "startTime": "2026-03-14T20:00:00.000Z",
+        "startTime": "2026-03-14T19:00:00.000Z",
         "description": "Pórtico: Concierto",
         "speakers": null,
         "performers": [
@@ -86,7 +86,7 @@
         "organizers": null
     },
     {
-        "startTime": "2026-03-14T20:00:00.000Z",
+        "startTime": "2026-03-14T19:00:00.000Z",
         "description": "Concierto a sus imágenes y hermanos",
         "speakers": null,
         "performers": [
@@ -96,7 +96,7 @@
         "organizers": [3]
     },
     {
-        "startTime": "2026-03-15T11:00:00.000Z",
+        "startTime": "2026-03-15T10:00:00.000Z",
         "description": "Jornada de Puertas Abiertas",
         "speakers": null,
         "performers": null,
@@ -104,7 +104,7 @@
         "organizers": [8]
     },
     {
-        "startTime": "2026-03-19T20:00:00.000Z",
+        "startTime": "2026-03-19T19:00:00.000Z",
         "description": "Pórtico: Poesía Vidual y Teatralizada \"Vía Crucis de Gerardo Diego\"",
         "speakers": null,
         "performers": [
@@ -114,7 +114,7 @@
         "organizers": null
     },
     {
-        "startTime": "2026-03-20T20:00:00.000Z",
+        "startTime": "2026-03-20T19:00:00.000Z",
         "description": "Pórtico: Pregón de la Semana Santa de Palencia",
         "speakers": [
             "R. P. Juan Carlos Ramos"
@@ -127,7 +127,7 @@
         "organizers": null
     },
     {
-        "startTime": "2026-03-21T20:30:00.000Z",
+        "startTime": "2026-03-21T19:30:00.000Z",
         "description": "Pórtico: Concierto",
         "speakers": null,
         "performers": [
@@ -137,7 +137,7 @@
         "organizers": null
     },
     {
-        "startTime": "2026-03-22T19:30:00.000Z",
+        "startTime": "2026-03-22T18:30:00.000Z",
         "description": "Concierto: \"Pasión y Música\"",
         "speakers": null,
         "performers": [
@@ -148,7 +148,15 @@
         "organizers": [1]
     },
     {
-        "startTime": "2026-04-11T20:00:00.000Z",
+        "startTime": "2026-04-03T17:30:00.000Z",
+        "description": "Función del descendimiento",
+        "speakers": null,
+        "performers": null,
+        "place": 1,
+        "organizers": [2]
+    },
+    {
+        "startTime": "2026-04-11T18:00:00.000Z",
         "description": "Concierto benéfico a favor de la Bolsa de Caridad de la Hermandad de Cofradías Penitenciales de Palencia. Puntos de venta: Librería Iglesias (Mayor y San Juan de Dios) y Cofradías Penitenciales de Palencia",
         "speakers": null,
         "performers": [
