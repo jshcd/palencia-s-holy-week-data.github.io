@@ -6,33 +6,30 @@
 			9
 		],
 		"day": "friday_of_sorrows",
-		"startTime": "19:30",
+		"startTime": "20:00",
 		"routes": [
 			{
 				"routeName": null,
 				"route": [
-					"Convento MM. Agustinas Recoletas",
-					"[19:30] Gil de Fuentes",
-					"[20:00] Jorge Manrique (Ofrecimiento a María Santísima de la Esperanza - Capilla MM. Agustinas Recoletas)",
+					"[20:00] S. I. Catedral de San Antolín",
 					"Plaza de la Inmaculada",
-					"[20:20] Santo San Pedro (Oración a los Difuntos)",
-					"Árbol del Paraíso",
-					"Plaza del Cordón",
-					"San Marcos",
-					"Gil de Fuentes",
-					"Plaza de Isabel la Católica",
-					"La Cestilla",
-					"[20:50] Cuatro Cantones",
-					"[21:00] Mayor (Lectura de la Sentencia de Cristo - Casino)",
-					"Becerro de Bengoa",
-					"Colón",
-					"Don Sancho",
-					"[22:00] Cuatro Cantones",
-					"Mayor",
-					"Barrio y Mier",
+					"[20:15] Jorge Manrique (Homenaje a los difuntos - Capilla MM. Agustinas Recoletas)",
 					"Juan de Castilla",
+					"Barrio y Mier",
+					"[20:45] Mayor Principal",
+					"[21:15] Mayor Principal (Lectura de la Sentencia - Casino)",
+					"Marqués de Albaida",
+					"[21:50] Pedro Fernández del Pulgar",
+					"Doctrinos",
+					"General Amor",
+					"[22:20] Plaza de Isabel la Católica",
 					"Gil de Fuentes",
-					"[23:30] Gil de Fuentes (Entrada - Convento MM. Agustinas Recoletas)"
+					"San Marcos",
+					"Árbol del Paraíso",
+					"[22:45] Árbol del Paraíso (Ofrenda floral - Casa de Hermandad de La Sentencia)",
+					"Santo San Pedro",
+					"[23:15]Plaza de la Inmaculada",
+					"[23:30] (Entrada - S. I. Catedral de San Antolín)"
 				]
 			}
 		],
@@ -68,11 +65,11 @@
 					"Cuartel de San Fernando",
 					"Plaza de Cervantes",
 					"Plaza de San Antolín",
-					"[19:40] [4] HH. Ancianos Desamparados (Junto al antiguo monasterio franciscano de San Buenaventura",
+					"[19:40] [4] HH. Ancianos Desamparados (Junto al antiguo monasterio franciscano de San Buenaventura)",
 					"Mayor Antigua",
 					"Santo San Pedro",
 					"Plaza de la Inmaculada",
-					"[20:00] [5] Interior de la Santa Iglesia Catedral",
+					"[20:00] [5] Interior de la S. I. Catedral",
 					"Jorge Manrique",
 					"Juan de Castilla",
 					"Barrio y Mier",
@@ -111,7 +108,7 @@
 			{
 				"routeName": null,
 				"route": [
-					"Plaza de la Inmaculada",
+					"[12:00] Plaza de la Inmaculada",
 					"Jorge Manrique",
 					"Gil de Fuentes",
 					"Plaza de Isabel la Católica",
@@ -124,13 +121,8 @@
 					"San Bernardo",
 					"Mayor Principal",
 					"Ignacio Martínez de Azcoitia",
-					"Travesía del Secretario Vázquez",
-					"Plaza Mayor",
-					"[14:00] Acto de la Entrada Triunfal",
-					"Travesía del Secretario Vázquez",
-					"Ignacio Martínez de Azcoitia",
 					"Lope de Vega",
-					"Capilla del Santo Sepulcro"
+					"[14:30] Capilla del Santo Sepulcro · Entrada Triunfal"
 				]
 			}
 		],
@@ -153,8 +145,8 @@
 				"routeName": null,
 				"route": [
 					"Calle de la Vera Cruz",
-					"Convento RR. MM. Dominicas · Recogida de Nuestra Señora del Dolor y Primer Misterio",
 					"Plaza de San Pablo",
+					"Convento RR. MM. Dominicas · Recogida de Nuestra Señora del Dolor y Primer Misterio",
 					"Iglesia Conventual de San Pablo (PP. Dominicos) · Segundo Misterio e incorporación del Santísimo Cristo de la Vera Cruz",
 					"Plaza de León",
 					"Avenida Antigua Florida",
@@ -186,25 +178,25 @@
 			6
 		],
 		"day": "holy_monday",
-		"startTime": "20:30",
+		"startTime": "20:15",
 		"routes": [
 			{
 				"routeName": null,
 				"route": [
-					"Plaza de San Francisco · Vestición",
+					"[20:15] Plaza de San Francisco · Vestición",
 					"[20:50] Capilla de la Soledad · 1ª Llaga · La Soledad",
 					"Ignacio Martínez de Azcoitia",
 					"Mayor Principal",
 					"[21:20] Iglesia de San Agustín · 2ª Llaga · La Piedad",
 					"Plaza de León",
 					"Plaza de San Pablo",
-					"[21:50] Iglesia Conventual de San Pablo · 3ª Llaga · Cristo Atado a la Columna",
+					"[21:50] Iglesia Conventual de San Pablo · 3ª Llaga · Vera Cruz",
 					"[22:15] Capilla de Jesús Nazareno · 4ª Llaga · Jesús Nazareno",
 					"Santo Domingo de Guzmán",
 					"Plaza de las Carmelitas",
 					"Santa Teresa de Jesús",
 					"Plaza de la Inmaculada",
-					"Santa Iglesia Catedral · Oración Jubilar",
+					"Santa Iglesia Catedral",
 					"Jorge Manrique",
 					"Juan de Castilla",
 					"Barrio y Mier",
