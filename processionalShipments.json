@@ -1,0 +1,26 @@
+[
+  {
+    "date": "2026-03-22T00:00:00.000Z",
+    "startTime": "18:30",
+    "place": 3,
+    "organizer": 2,
+    "description": "Solemne Traslado Procesional del Santo Sepulcro a la S.I. Catedral",
+    "musicalEnsemble": 5
+  },
+  {
+    "date": "2026-03-25T00:00:00.000Z",
+    "startTime": "17:00",
+    "place": 10,
+    "organizer": 9,
+    "description": "Traslado de Nuestro Padre Jesús de la Sentencia a la S.I. Catedral",
+    "musicalEnsemble": null
+  },
+  {
+    "date": "2026-04-04T00:00:00.000Z",
+    "startTime": "18:30",
+    "place": 2,
+    "organizer": 1,
+    "description": "Traslado de Ntra. Sra. del Dolores hasta el Monasterio de la Piedad [Canto de la Salve Popular]",
+    "musicalEnsemble": 1
+  }
+]

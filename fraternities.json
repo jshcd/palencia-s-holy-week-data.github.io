@@ -8,11 +8,7 @@
 		"president": "D. Antonio Triana",
 		"numberOfBrothersAndSisters": 1200,
 		"habit": "Túnica negra con botones verdes, cíngulo negro, capillo negro, capa verde, guantes negros excepto Domingo de Ramos (Procesión de la Entrada de Jesús en Jerusalén) y Domingo de Resurrección (Procesión del Rompimiento), que son guantes blancos.",
-		"chapterHouse": {
-			"address": "Calle de la Vera Cruz 9",
-			"latitude": 42.0146863,
-			"longitude": -4.5375599
-		},
+		"chapterHouse": 15,
 		"canonicalSee": 2,
 		"processionalFloats": [
 			29, 28, 5, 6, 17, 19, 20, 21, 22, 23, 24, 25, 26, 27, 42
@@ -37,11 +33,7 @@
 		"president": "D. Ángel Pérez Gutiérrez",
 		"numberOfBrothersAndSisters": 710,
 		"habit": "Túnica blanca con botones rojos en el eje vertical delantero, en toda su longitud. Cruz del Santo Sepulcro bordada en rojo en el pecho izquierdo. Se añaden manguitos (pieza a modo de manga postiza que cubre la vestimenta desde detrás del codo hasta la muñeca en la que cierra a modo de puño de camisa). Capillo blanco con la Cruz del Santo Sepulcro a la altura del pecho. Capa de tipo manteo ribeteada en tela roja y cuello de tela roja igual al ribete. En la parte delantera, dos botones forrados de la misma tela que el ribete, unidos por una tira de tela trenzada de la misma tela y color. En el lado izquierdo, bajo el hombro y coincidiendo con misma altura de las cruces de túnica y capillo, llevará bordada la cruz del Santo Sepulcro. En la cintura, cordón de lana blanca trenzada con nudos como homenaje a nuestro origen franciscano. Guantes blancos. Zapatillas de loneta o similar, completamente blancas con sendas hebillas rectangulares rojas (las hebillas, junto a las tres cruces anteriormente mencionadas en túnica, capillo y capa simbolizan las Cinco Llagas) y calcetines completamente blancos.\n\nComo complemento de la túnica se portará la vela o complemento que reglamentariamente apruebe el Cabildo. Actualmente es obligatorio portar el farol en las filas.",
-		"chapterHouse": {
-			"address": "Calle Valentín Calderón 25",
-			"latitude": 42.01299142227573,
-			"longitude": -4.531642778511346
-		},
+		"chapterHouse": 16,
 		"canonicalSee": 3,
 		"processionalFloats": [
 			40, 41, 4, 15, 16, 36, 37, 39
@@ -66,11 +58,7 @@
 		"president": "D. Fausto San Martín",
 		"numberOfBrothersAndSisters": 1680,
 		"habit": "Hábito de sarga morada, rematado con galón dorado en bocamangas (doble galón), cuello y bajo de la túnica, en el pecho la insignia de la cofradía bordado en oro que consta de corona de espinas y en su interior las letras JHS, una cruz sobre la H y debajo de esta tres clavos. Al cuello, como los reos de muerte, cordón de lana amarillo tostado rematado con 12 madroñeras y tres nudos a lo largo de este simbolizando las llagas de nuestro señor.",
-		"chapterHouse": {
-			"address": "Plaza de San Pablo 7",
-			"latitude": 42.014147930431115,
-			"longitude": -4.53687617954063
-		},
+		"chapterHouse": 17,
 		"canonicalSee": 4,
 		"processionalFloats": [
 			31, 35, 30,  32, 33, 34
@@ -95,11 +83,7 @@
 		"president": "D. Antonio Maté García",
 		"numberOfBrothersAndSisters": 385,
 		"habit": "Túnica y capirote de terciopelo negro, con cola larga, y cíngulo y guantes blancos; medalla de la Cofradía, con cinta morada, colgando del cuello; escudo de la Cofradía bordado sobre el lado izquierdo.",
-		"chapterHouse": {
-			"address": "Calle Ignacio Martínez de Azcoitia s/n",
-			"latitude": 42.01141077272702,
-			"longitude": -4.532406026965009
-		},
+		"chapterHouse": 18,
 		"canonicalSee": 5,
 		"processionalFloats": [
 			10
@@ -124,11 +108,7 @@
 		"president": "Dña. Cristina Lerma Merino",
 		"numberOfBrothersAndSisters": 457,
 		"habit": "Túnica roja y capillo rojo, en recuerdo de la sangre del Redentor. Cíngulo blanco, en señal de penitencia. Capa blanca, como símbolo de la Gracia y Luz Divina, con el escudo de la Cruz de la Hermandad en rojo y blanco, sobre el pectoral izquierdo.",
-		"chapterHouse": {
-			"address": "Calle Mayor Antigua 52",
-			"latitude": 42.009571358628364,
-			"longitude": -4.536793799387082
-		},
+		"chapterHouse": 19,
 		"canonicalSee": 6,
 		"processionalFloats": [
 			12, 11, 18
@@ -153,11 +133,7 @@
 		"president": "D. Antonio Motila Matía",
 		"numberOfBrothersAndSisters": 174,
 		"habit": "Tunica blanca abotonada en azul celeste. Capa azul celeste con anagrama bordado a la altura del corazon. Capillo blanco, con remate en cuadrado, a la altura del pecho. Cingulo compuesto de dos cordones, uno blanco y otro azul celeste, entrelazados, cruz de madera colgada del cuello en cordon azul celeste, sandalias de esparta en color blanco, abiertas, tipo franciscanas o bien pies descalzos.",
-		"chapterHouse": {
-			"address": "Plaza de San Francisco 1",
-			"latitude": 42.011304373747286,
-			"longitude": -4.5320827984881955
-		},
+		"chapterHouse": 20,
 		"canonicalSee": 7,
 		"processionalFloats": [
 			7, 38
@@ -182,11 +158,7 @@
 		"president": "D. Luis Casalduero Gil",
 		"numberOfBrothersAndSisters": 482,
 		"habit": "Túnica morada de sarga con capa de raso malva y guantes blancos. Escapulario al cuello con el emblema de Jesús Cautivo (una S atravesada por un clavo) y Cruz Trinitaria. Capillo y cíngulo Blancos.",
-		"chapterHouse": {
-			"address": "Calle Los Pastores 9",
-			"latitude": 42.01461934254615,
-			"longitude": -4.5388701237093905
-		},
+		"chapterHouse": 21,
 		"canonicalSee": 8,
 		"processionalFloats": [
 			9, 8
@@ -211,11 +183,7 @@
 		"president": "D. Víctor A. Lafuente Sánchez",
 		"numberOfBrothersAndSisters": 143,
 		"habit": "Túnica de color marrón franciscano, con botonadura continua. Capa, del mismo color, con el emblema del Abrazo Seráfico ubicado en el lado izquierdo. Manguitos del mismo color. Medalla corporativa de la Hermandad, sobre el capirote o capucha. Cíngulo franciscano con tres nudos (en el lado derecho) y corona franciscana colgando del mismo (en el lado izquierdo). Guantes de color blanco. Sandalia marrón o zapatos bajos negros. Farol procesional.",
-		"chapterHouse": {
-			"address": "Calle Ramírez 5",
-			"latitude": 42.0117674,
-			"longitude": -4.5360783
-		},
+		"chapterHouse": 22,
 		"canonicalSee": 9,
 		"processionalFloats": [
 			3, 2, 13, 14
@@ -240,11 +208,7 @@
 		"president": "Dña. M. Dolores Llamas Fuentes",
 		"numberOfBrothersAndSisters": 213,
 		"habit": "Túnica color Burdeos con botonadura negra, zapatos, guantes, cíngulo y capa de color negro, llevará bordado el escudo de la Hermandad en el lado izquierdo de la capa, Se cubrirán la cabeza con una capucha / capillo de color Burdeos.",
-		"chapterHouse": {
-			"address": "Calle Árbol del Paraíso 7",
-			"latitude": 42.00983931936898,
-			"longitude": -4.536215059798099
-		},
+		"chapterHouse": 23,
 		"canonicalSee": 10,
 		"processionalFloats": [
 			1

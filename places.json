@@ -96,5 +96,68 @@
 		"address": "Calle Mayor Antigua 36",
 		"latitude": 42.01088492910207,
 		"longitude": -4.538184750291937
-	}
+	},
+    {
+        "id": 15,
+        "name": "Cofradía de la Vera Cruz",
+        "address": "Calle de la Vera Cruz 9",
+        "latitude": 42.0146863,
+        "longitude": -4.5375599
+    },
+    {
+        "id": 16,
+        "name": "Cofradía del Santo Sepulcro",
+        "address": "Calle Valentín Calderón 25",
+        "latitude": 42.01299142227573,
+        "longitude": -4.531642778511346
+    },
+    {
+        "id": 17,
+        "name": "Cofradía de Jesús Nazareno",
+        "address": "Plaza de San Pablo 7",
+        "latitude": 42.014147930431115,
+        "longitude": -4.53687617954063
+    },
+    {
+        "id": 18,
+        "name": "Cofradía de la Soledad",
+        "address": "Calle Ignacio Martínez de Azcoitia s/n",
+        "latitude": 42.01141077272702,
+        "longitude": -4.532406026965009
+    },
+    {
+        "id": 19,
+        "name": "Cofradía de La Misericordia",
+        "address": "Calle Mayor Antigua 52",
+        "latitude": 42.009571358628364,
+        "longitude": -4.536793799387082
+    },
+    {
+        "id": 20,
+        "name": "Cofradía de Jesús Crucificado",
+        "address": "Plaza de San Francisco 1",
+        "latitude": 42.011304373747286,
+        "longitude": -4.5320827984881955
+    },
+    {
+        "id": 21,
+        "name": "Cofradía de Jesús de Medinaceli",
+        "address": "Calle Los Pastores 9",
+        "latitude": 42.01461934254615,
+        "longitude": -4.5388701237093905
+    },
+    {
+        "id": 22,
+        "name": "Cofradía de La Piedad",
+        "address": "Calle Ramírez 5",
+        "latitude": 42.0117674,
+        "longitude": -4.5360783
+    },
+    {
+        "id": 23,
+        "name": "Cofradía de La Sentencia",
+        "address": "Calle Árbol del Paraíso 7",
+        "latitude": 42.00983931936898,
+        "longitude": -4.536215059798099
+    }
 ]

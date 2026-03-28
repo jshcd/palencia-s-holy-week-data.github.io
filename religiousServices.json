@@ -790,16 +790,6 @@
         "musicalAccompaniment": null
     },
     {
-        "date": "2026-03-22T00:00:00.000Z",
-        "startTime": "18:30",
-        "category": "traslado",
-        "place": 3,
-        "organizers": [2],
-        "description": "Solemne Traslado Procesional del Santo Sepulcro a la S.I. Catedral",
-        "president": null,
-        "musicalAccompaniment": "Banda de CC. y TT. de la Santísima Trinidad (Palencia)"
-    },
-    {
         "date": "2026-03-23T00:00:00.000Z",
         "startTime": "12:30",
         "category": "septenary",
@@ -826,16 +816,6 @@
         "place": 5,
         "organizers": [4],
         "description": "Solemne Septenario en honor y gloria a Nuestra Señora de la Soledad",
-        "president": null,
-        "musicalAccompaniment": null
-    },
-    {
-        "date": "2026-03-27T00:00:00.000Z",
-        "startTime": "17:00",
-        "category": "traslado",
-        "place": 10,
-        "organizers": [9],
-        "description": "Traslado de Nuestro Padre Jesús de la Sentencia a la S.I. Catedral",
         "president": null,
         "musicalAccompaniment": null
     },
