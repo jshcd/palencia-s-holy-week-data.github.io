@@ -225,7 +225,7 @@
 			{
 				"routeName": null,
 				"route": [
-					"Capilla de Jesús Nazareno",
+					"[20:00] Capilla de Jesús Nazareno",
 					"Plaza de San Pablo",
 					"Santo Domingo de Guzmán",
 					"Plaza de las Carmelitas",
@@ -272,20 +272,21 @@
 			5
 		],
 		"day": "holy_wednesday",
-		"startTime": "20:00",
+		"startTime": "20:15",
 		"routes": [
 			{
 				"routeName": null,
 				"route": [
-					"Plaza de Isabel la Católica",
+					"[20:00] Iglesia de Nuestra Señora de la Calle · Encuentro de las Cofradías",
+					"[20:15] Plaza de Isabel la Católica",
 					"Menéndez Pelayo",
+					"Juan de Castilla",
+					"Jorge Manrique",
+					"[21:00] Plaza de la Inmaculada · Santo Vía Crucis",
+					"21:45 Plaza de la Inmaculada",
+					"Jorge Manrique",
+					"Juan de Castilla",
 					"Barrio y Mier",
-					"Mayor Principal",
-					"Ignacio Martínez de Azcoitia",
-					"Travesía del Secretario Vázquez",
-					"[21:00] Plaza Mayor · Santo Viacrucis",
-					"[21:40] Plaza de San Francisco · Mater Angustia",
-					"Ignacio Martínez de Azcoitia",
 					"Mayor Principal",
 					"La Cestilla",
 					"[22:30] Plaza de Isabel la Católica · Despedida Madre e Hijo",
@@ -294,7 +295,7 @@
 			}
 		],
 		"processionalFloats": [
-			10, 11, 8, 12
+			8, 23, 7, 10, 12, 11
 		],
 		"mainFloat": 12,
 		"musicalEnsembles": [10, 3]
@@ -362,10 +363,10 @@
 			{
 				"routeName": null,
 				"route": [
-					"[00:00] Capilla del Santo Sepulcro · Lectura de la Promesa de Silencio",
+					"[00:00] Capilla del Santo Sepulcro · Promesa del Silencio",
 					"Lope de Vega",
 					"Ignacio Martínez de Azcoitia",
-					"Residencia de San Francisco · Acto de homenaje a nuestros mayores",
+					"[00:15] Residencia de San Francisco · Homenaje a nuestros mayores",
 					"Mayor Principal",
 					"Don Sancho",
 					"Joaquín Costa",
@@ -391,37 +392,35 @@
 			5
 		],
 		"day": "holy_thursday",
-		"startTime": "11:15",
+		"startTime": "11:00",
 		"routes": [
 			{
-				"routeName": "Virgen y San Juan",
+				"routeName": "Cortejo Cristo",
 				"route": [
-					"[11:15] Plaza de Isabel la Católica",
-					"Cardenal Almaraz",
-					"Obispo Lozano",
-					"Plaza de San Miguel",
-					"Mayor Antigua",
-					"[11:45] Iglesia de San Miguel · Reo es de muerte",
-					"Rinconada de San Miguel",
-					"Pedro Fernández del Pulgar",
-					"Marqués de Albaida",
+					"[11:00] Plaza de Isabel la Católica",
+					"Gil de Fuentes",
+					"Ramírez",
+					"Santo Domingo de Guzmán",
+					"[12:00] Plaza de San Pablo · Encuentro con las cofradías",
+					"Plaza de León",
 					"Mayor Principal",
 					"Ignacio Martínez de Azcoitia",
-					"Plaza de San Francisco",
+					"[12:45] Plaza de San Francisco · Mater Angustia (O. F. S.)",
 					"Plaza Mayor"
 				]
 			},
 			{
-				"routeName": "Cristo",
+				"routeName": "Cortejo Virgen",
 				"route": [
-					"[11:30] Plaza de Isabel la Católica",
+					"[11:15] Plaza de Isabel la Católica",
 					"Gil de Fuentes",
 					"San Marcos",
 					"Árbol del Paraíso",
 					"Santo San Pedro",
-					"Plaza de la Inmaculada",
-					"[12:00] Jorge Manrique · Encuentro con las cofradías",
-					"[12:15] Juan de Castilla · Proclama de la Sentencia",
+					"[12:00] Plaza de la Inmaculada · Proclama de la Sentencia",
+					"Agustinas Recoletas",
+					"Jorge Manrique",
+					"Juan de Castilla",
 					"Barrio y Mier",
 					"Mayor Principal",
 					"Ignacio Martínez de Azcoitia",
@@ -432,16 +431,18 @@
 			{
 				"routeName": "Conjunto",
 				"route": [
-					"[13:00] Bocaplaza · Absolución del Reo",
-					"Mayor Principal",
+					"[13:00] Plaza Mayor · Encuentro y Absolución del Reo",
+					"[13:30] Plazuela de la Sal",
+					"Joaquín Costa",
+					"Don Sancho",
 					"La Cestilla",
-					"[14:00] Plaza de Isabel la Católica · Despedida",
+					"[14:30] Plaza de Isabel la Católica · Acto del Perdón",
 					"Iglesia de Nuestra Señora de la Calle"
 				]
 			}
 		],
 		"processionalFloats": [
-			7, 12, 9, 17, 11, 18
+			9, 22, 7, 12, 18, 11
 		],
 		"mainFloat": 11,
 		"musicalEnsembles": [3, 1, 11]
@@ -453,16 +454,15 @@
 			1
 		],
 		"day": "holy_thursday",
-		"startTime": "20:00",
+		"startTime": "19:30",
 		"routes": [
 			{
 				"routeName": null,
 				"route": [
-					"De la Vera Cruz",
+					"[19:30] De la Vera Cruz",
 					"Plaza de San Pablo",
 					"Plaza de León",
 					"Mayor Principal",
-					"Iglesia de San Agustín · Saludo al Santísimo",
 					"Ignacio Martínez de Azcoitia",
 					"Travesía del Secretario Vázquez",
 					"Plaza Mayor",
@@ -471,17 +471,17 @@
 					"Colón",
 					"Becerro de Bengoa",
 					"Mayor Principal",
-					"Cuatro Cantones · Al paso de Ntra. Sra. de la Vera Cruz: Canto del Ave María",
 					"Cuatro Cantones · Al paso de la Sta. Vera Cruz - Lignum Crucis: Acto en recuerdo del alma de nuestros hermanos difuntos",
+					"Cuatro Cantones · Al paso de Ntra. Sra. de la Vera Cruz: Canto del Ave María",
 					"Plaza de León",
 					"Plaza de San Pablo",
 					"De la Vera Cruz",
-					"Capilla de la Santa Vera Cruz · Despedida"
+					"Capilla de la Santa Vera Cruz · Narración bíblica y Acto de Despedida"
 				]
 			}
 		],
 		"processionalFloats": [
-			19, 20, 21, 22, 23, 24, 17, 25, 26, 27, 28, 29
+			29, 19, 20, 21, 22, 23, 24, 17, 25, 26, 28
 		],
 		"mainFloat": 21,
 		"musicalEnsembles": [1,2,4,12]
@@ -498,6 +498,7 @@
 			{
 				"routeName": null,
 				"route": [
+					"[01:00] Capilla de Jesús Nazareno",
 					"Plaza de San Pablo",
 					"Hermanos Madrid",
 					"Plaza Juan XXIII",
@@ -533,7 +534,7 @@
 			{
 				"routeName": null,
 				"route": [
-					"Plaza de San Pablo",
+					"[11:00] Plaza de San Pablo",
 					"Santo Domingo de Guzmán",
 					"Plaza de las Carmelitas",
 					"Santa Teresa de Jesús",
@@ -551,8 +552,8 @@
 					"Plaza Mayor",
 					"Travesía del Secretario Vázquez",
 					"Ignacio Martínez de Azcoitia",
-					"Mayor Principal",
-					"[14:45] Iglesia Penitencial de San Agustín · Saludo a La Piedad",
+					"[13:00] Mayor Principal",
+					"[14:30] Iglesia Penitencial de San Agustín · Saludo a La Piedad",
 					"Plaza de León",
 					"[14:45] Plaza de San Pablo · Acto de ofrenda floral por los difuntos",
 					"Plaza de San Pablo · Despedida de Jesús Nazareno a Nuestra Madre la Virgen de la Amargura",
