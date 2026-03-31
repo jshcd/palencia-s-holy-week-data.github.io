@@ -481,7 +481,7 @@
 			}
 		],
 		"processionalFloats": [
-			28, 29, 19, 20, 21, 22, 23, 24, 17, 25, 26
+			29, 19, 20, 21, 22, 23, 24, 17, 25, 26, 28
 		],
 		"mainFloat": 21,
 		"musicalEnsembles": [1,2,4,12]
@@ -580,7 +580,7 @@
 				"routeName": null,
 				"route": [
 					"Santa Iglesia Catedral",
-					"Plaza de la Inmaculada",
+					"[20:00] Plaza de la Inmaculada · Miserere",
 					"Santo San Pedro",
 					"Árbol del Paraíso",
 					"San Marcos",
@@ -596,11 +596,11 @@
 					"Mayor Principal",
 					"Ignacio Martínez de Azcoitia",
 					"Travesía del Secretario Vázquez",
-					"[22:00] Plaza Mayor · Miserere y Encuentro de la Virgen Dolorosa con el Cristo Yacente",
+					"[22:30] Plaza Mayor · Encuentro de la Virgen Dolorosa con el Cristo Yacente",
 					"Travesía del Secretario Vázquez",
 					"Ignacio Martínez de Azcoitia",
 					"Lope de Vega",
-					"[22:45] Capilla del Santo Sepulcro · Salve popular"
+					"[23:00] Capilla del Santo Sepulcro · Salve popular"
 				]
 			}
 		],
@@ -622,8 +622,10 @@
 			{
 				"routeName": null,
 				"route": [
+     "[18:15] Capilla de Nuestra Señora de la Soledad",
 					"Plaza de San Francisco",
 					"Plaza Mayor",
+     "Plazuela de la Sal",
 					"Joaquín Costa",
 					"[19:00] Don Sancho · Incorporación cofradías de la provincia y autoridades",
 					"Mayor Principal",
@@ -722,6 +724,8 @@
 					"[9:45] Iglesia Conventual de San Pablo (PP. Dominicos)",
 					"Plaza de San Pablo",
 					"Plaza de León",
+     "Antonio Maura",
+     "Barrio y Mier",
 					"Mayor Principal",
 					"Ignacio Martínez de Azcoitia",
 					"Plaza de San Francisco",
