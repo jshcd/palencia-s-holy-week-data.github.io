@@ -1258,5 +1258,35 @@
         "description": "Santa Misa de Resurrección",
         "president": null,
         "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-04-10T00:00:00.000Z",
+        "startTime": "20:00",
+        "category": "triduum",
+        "place": 11,
+        "organizers": [1],
+        "description": "Solemne Triduo en honor al Cristo Resucitado",
+        "president": "D. Rafael Núñez Pastor",
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-04-11T00:00:00.000Z",
+        "startTime": "20:00",
+        "category": "triduum",
+        "place": 11,
+        "organizers": [1],
+        "description": "Solemne Triduo en honor al Cristo Resucitado",
+        "president": "D. Rafael Núñez Pastor",
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-04-12T00:00:00.000Z",
+        "startTime": "18:00",
+        "category": "triduum",
+        "place": 11,
+        "organizers": [1],
+        "description": "Solemne Triduo en honor al Cristo Resucitado",
+        "president": "D. Rafael Núñez Pastor",
+        "musicalAccompaniment": "A. M. Santa Vera Cruz"
     }
 ]
