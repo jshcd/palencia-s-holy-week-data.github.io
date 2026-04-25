@@ -164,5 +164,13 @@
         ],
         "place": 1,
         "organizers": null
+    },
+    {
+        "startTime": "2026-05-02T16:30:00.000Z",
+        "description": "Procesión infantil con las réplicas en miniatura de la Santa Vera Cruz y de la Virgen de la Vera Cruz. Cruz de Mayo. Mayo, mes de María. Organizada por el Grupo Infantil y el Grupo Joven.",
+        "speakers": null,
+        "performers": null,
+        "place": 15,
+        "organizers": [1]
     }
 ]
