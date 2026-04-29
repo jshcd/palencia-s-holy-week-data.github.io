@@ -1288,5 +1288,15 @@
         "description": "Solemne Triduo en honor al Cristo Resucitado",
         "president": "D. Rafael Núñez Pastor",
         "musicalAccompaniment": "A. M. Santa Vera Cruz"
+    },
+    {
+        "date": "2026-05-29T00:00:00.000Z",
+        "startTime": "19:30",
+        "category": "mass",
+        "place": 2,
+        "organizers": [1],
+        "description": "Misa en honor a Santa Catalina de Siena",
+        "president": null,
+        "musicalAccompaniment": null
     }
 ]
