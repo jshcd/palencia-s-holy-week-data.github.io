@@ -172,5 +172,13 @@
         "performers": null,
         "place": 15,
         "organizers": [1]
+    },
+    {
+        "startTime": "2026-05-23T15:30:00.000Z",
+        "description": "Solemne procesión infantil con la réplica en miniatura de Nuestra Señora de la Esperanza. Desde la Casa de Hermandad hasta la S.I. Catedral",
+        "speakers": null,
+        "performers": null,
+        "place": 23,
+        "organizers": [9]
     }
 ]
