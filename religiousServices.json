@@ -86,7 +86,7 @@
         "place": 1,
         "organizers": null,
         "description": "Vía Crucis \"Anuncio del camino cuaresmal\"",
-        "president": "Excmo. y Rvdmo. Obispo de Palencia",
+        "president": "Excmo. y Rvdmo. Sr. D. Míkel Garciandía Goñi, Obispo de Palencia",
         "musicalAccompaniment": null
     },
     {
@@ -326,7 +326,7 @@
         "place": 9,
         "organizers": [8],
         "description": "Solemne Triduo al Santo Cristo Señor de la Vida y de la Muerte",
-        "president": "Fr. Constancio Ruiz Cuadrado O.F.M. Conv.",
+        "president": "Fr. Constancio Ruiz Cruzado O.F.M. Conv.",
         "musicalAccompaniment": null
     },
     {
@@ -386,7 +386,7 @@
         "place": 9,
         "organizers": [8],
         "description": "Solemne Triduo al Santo Cristo Señor de la Vida y de la Muerte",
-        "president": "Fr. Constancio Ruiz Cuadrado O.F.M. Conv.",
+        "president": "Fr. Constancio Ruiz Cruzado O.F.M. Conv.",
         "musicalAccompaniment": null
     },
     {
@@ -416,7 +416,7 @@
         "place": 9,
         "organizers": [8],
         "description": "Solemne Triduo al Santo Cristo Señor de la Vida y de la Muerte e Imposición de medallas",
-        "president": "Fr. Constancio Ruiz Cuadrado O.F.M. Conv.",
+        "president": "Fr. Constancio Ruiz Cruzado O.F.M. Conv.",
         "musicalAccompaniment": null
     },
     {
@@ -1186,7 +1186,7 @@
         "place": 1,
         "organizers": [],
         "description": "Vigilia Pascual",
-        "president": "Excmo. y Rvdmo. Obispo de Palencia",
+        "president": "Excmo. y Rvdmo. Sr. D. Míkel Garciandía Goñi, Obispo de Palencia",
         "musicalAccompaniment": null
     },
     {
@@ -1308,5 +1308,65 @@
         "description": "Solemne Misa por la festividad de la Invención de la Santa Cruz junto a los santos apóstoles Felipe y Santiago. Se conmemorará aquel instante en que, en medio de la tierra y del tiempo, fue hallada la Verdadera Cruz, el madero donde Cristo redimió al mundo. Tras la Misa (a las 20:15h) habrá entrega de diplomas a los hermanos que cumplen 25 de cofrades, imposición de la Medalla de Oro a los hermanos que alcanzan 50 de cofrades y placa conmemorativa a los hermanos que cumplen 75 años como cofrades. Para culminar, los asistentes podrán acceder a la sede de la cofradía para tomar un pequeño aperitivo y compartir unas palabras.",
         "president": "Fray Luis Miguel García Palacios, O.P., Prior del Convento de San Pablo y Padre Abad de la Cofradía",
         "musicalAccompaniment": "A. M. Santa Vera Cruz"
+    },
+    {
+        "date": "2026-05-05T00:00:00.000Z",
+        "startTime": "19:30",
+        "category": "mass",
+        "place": 2,
+        "organizers": [1],
+        "description": "Misa por la festividad de San Vicente Ferrer",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-05-07T00:00:00.000Z",
+        "startTime": "20:30",
+        "category": "triduum",
+        "place": 9,
+        "organizers": [8],
+        "description": "Solemne Triduo a Nuestra Señora de los Ángeles",
+        "president": "Fr. Constancio Ruiz Cruzado O.F.M. Conv., Consiliario de la Hermandad",
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-05-08T00:00:00.000Z",
+        "startTime": "20:30",
+        "category": "triduum",
+        "place": 9,
+        "organizers": [8],
+        "description": "Solemne Triduo a Nuestra Señora de los Ángeles",
+        "president": "Fr. Constancio Ruiz Cruzado O.F.M. Conv., Consiliario de la Hermandad",
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-05-09T00:00:00.000Z",
+        "startTime": "11:00",
+        "category": "veneration",
+        "place": 9,
+        "organizers": [8],
+        "description": "De 11:00 a 20:30 h. Solemne Besamanos a Nuestra Señora de los Ángeles",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-05-09T00:00:00.000Z",
+        "startTime": "20:30",
+        "category": "triduum",
+        "place": 9,
+        "organizers": [8],
+        "description": "Solemne Triduo a Nuestra Señora de los Ángeles",
+        "president": "Fr. Constancio Ruiz Cruzado O.F.M. Conv., Consiliario de la Hermandad",
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-06-07T00:00:00.000Z",
+        "startTime": "11:00",
+        "category": "mass",
+        "place": 1,
+        "organizers": [],
+        "description": "Solemne Eucaristía y Procesión",
+        "president": "Excmo. y Rvdmo. Sr. D. Míkel Garciandía Goñi, Obispo de Palencia",
+        "musicalAccompaniment": null
     }
 ]
