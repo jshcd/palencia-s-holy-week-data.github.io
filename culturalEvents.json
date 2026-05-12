@@ -183,8 +183,8 @@
     },
     {
         "startTime": "2026-05-16T17:30:00.000Z",
-        "description": "Charla \"Los Procesos de Coronación\"",
-        "speakers": "Javier Burrieza",
+        "description": "Charla 'Los Procesos de Coronación'",
+        "speakers": ["Javier Burrieza"],
         "performers": null,
         "place": 24,
         "organizers": [3]
@@ -199,16 +199,16 @@
     },
     {
         "startTime": "2026-05-23T17:30:00.000Z",
-        "description": "Charla \"Por qué coronamos a las imágenes\"",
-        "speakers": "Joaquín de la Peña",
+        "description": "Charla 'Por qué coronamos a las imágenes'",
+        "speakers": ["Joaquín de la Peña"],
         "performers": null,
         "place": 4,
         "organizers": [3]
     },
     {
         "startTime": "2026-05-30T17:30:00.000Z",
-        "description": "Charla \"Origen del voto de María Reina\"",
-        "speakers": "Eduardo del Rey",
+        "description": "Charla 'Origen del voto de María Reina'",
+        "speakers": ["Eduardo del Rey"],
         "performers": null,
         "place": 24,
         "organizers": [3]
