@@ -159,5 +159,12 @@
         "address": "Calle Árbol del Paraíso 7",
         "latitude": 42.00983931936898,
         "longitude": -4.536215059798099
+    },
+    {
+        "id": 24,
+        "name": "Sede de la Hermandad de Cofradías Penitenciales de Palencia",
+        "address": "Plaza de Zurradores, s/n",
+        "latitude": 42.00864916155494,
+        "longitude": -4.533241016866563
     }
 ]
