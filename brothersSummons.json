@@ -1,16 +1,16 @@
 [
   {
-    "startDate": "2026-04-01T00:00:00.000Z",
+    "startDate": "2027-03-24T00:00:00.000",
     "startTime": "00:00",
     "organizer": 5
   },
   {
-    "startDate": "2026-04-02T00:00:00.000Z",
+    "startDate": "2027-03-25T01:00:00.000",
     "startTime": "01:00",
     "organizer": 1
   },
   {
-    "startDate": "2026-04-03T00:00:00.000Z",
+    "startDate": "2027-03-26T01:00:00.000",
     "startTime": "01:00",
     "organizer": 2
   }
