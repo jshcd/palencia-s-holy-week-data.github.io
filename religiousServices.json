@@ -1368,5 +1368,35 @@
         "description": "Solemne Eucaristía y Procesión",
         "president": "Excmo. y Rvdmo. Sr. D. Míkel Garciandía Goñi, Obispo de Palencia",
         "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-09-14T20:00:00+02:00",
+        "startTime": "20:00",
+        "category": "mass",
+        "place": 8,
+        "organizers": [5],
+        "description": "Santa Misa por la festividad de Exaltación de la Santa Cruz.\nAl final de la Eucaristía, se entregarán los diplomas de homenaje por la veteranía cofrade de 25 años y los diplomas y medallas por la de 50 y 75 años a los hermanos/as que los cumplan.",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-09-15T19:40:00+02:00",
+        "startTime": "19:40",
+        "category": "rosary",
+        "place": 19,
+        "organizers": [5],
+        "description": "Santo rosario en honor a Nuestra Señora del Perdón",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-09-15T20:00:00+02:00",
+        "startTime": "20:00",
+        "category": "mass",
+        "place": 19,
+        "organizers": [5],
+        "description": "Liturgia de la Palabra por la Festividad de Ntra. Sra. de los Dolores",
+        "president": null,
+        "musicalAccompaniment": null
     }
 ]
