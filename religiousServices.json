@@ -1370,6 +1370,16 @@
         "musicalAccompaniment": null
     },
     {
+        "date": "2026-09-14T19:30:00+02:00",
+        "startTime": "19:30",
+        "category": "mass",
+        "place": 2,
+        "organizers": [1],
+        "description": "Santa Misa por la festividad de Exaltación de la Santa Cruz.\nAl término de la Eucaristía:\n· Renovación y jura de los nuevos alcaldes.\n· Procesión con nuestro Sagrado Titular, la Vera Cruz - Lignum Crucis, por las calles del barrio.\n\nItinerario: [20:00] Iglesia Conventual de San Pablo - Plaza de San Pablo - Hermanos Madrid - Plaza Juan XXIII - Mayor Antigua - Las Monjas - Los Pastores - Marqués de Santillana - Vera Cruz - Plaza de San Pablo - Iglesia Conventual de San Pablo",
+        "president": "Fray Luis Miguel García Palacios, O.P., Prior del Convento de San Pablo y Padre Abad de la Cofradía",
+        "musicalAccompaniment": "A. M. Santa Vera Cruz"
+    },
+    {
         "date": "2026-09-14T20:00:00+02:00",
         "startTime": "20:00",
         "category": "mass",
