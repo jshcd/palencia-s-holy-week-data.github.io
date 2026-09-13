@@ -1408,5 +1408,15 @@
         "description": "Liturgia de la Palabra por la Festividad de Ntra. Sra. de los Dolores",
         "president": null,
         "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-09-17T19:00:00+02:00",
+        "startTime": "19:00",
+        "category": "rosary",
+        "place": 23,
+        "organizers": [9],
+        "description": "Rosario mensual de septiembre.\nA continuación se hará la Jura de Reglas de los miembros de la Junta de Gobierno.",
+        "president": null,
+        "musicalAccompaniment": null
     }
 ]
