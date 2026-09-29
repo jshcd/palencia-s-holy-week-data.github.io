@@ -1418,5 +1418,15 @@
         "description": "Rosario mensual de septiembre.\nA continuación se hará la Jura de Reglas de los miembros de la Junta de Gobierno.",
         "president": null,
         "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-10-03T19:00:00+02:00",
+        "startTime": "19:00",
+        "category": "mass",
+        "place": 3,
+        "organizers": [2],
+        "description": "Misa en honor a San Francisco.",
+        "president": null,
+        "musicalAccompaniment": null
     }
 ]
