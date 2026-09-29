@@ -22,5 +22,13 @@
     "organizer": 1,
     "description": "Traslado de Ntra. Sra. del Dolores hasta el Monasterio de la Piedad [Canto de la Salve Popular]",
     "musicalEnsemble": 1
+  },
+  {
+    "date": "2026-10-03T00:00:00.000Z",
+    "startTime": "20:00",
+    "place": 3,
+    "organizer": 2,
+    "description": "Procesión en honor a San Francisco\nRecorrido: Lope de Vega - Ignacio Martínez de Azcoitia - Mayor Principal - Cestilla - Menéndez Pelayo - Barrio y Mier - Valentín Calderón - Lope de Vega",
+    "musicalEnsemble": 5
   }
 ]
