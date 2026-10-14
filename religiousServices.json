@@ -1428,5 +1428,15 @@
         "description": "Misa en honor a San Francisco.",
         "president": null,
         "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-10-22T19:00:00+02:00",
+        "startTime": "19:00",
+        "category": "rosary",
+        "place": 23,
+        "organizers": [9],
+        "description": "Rosario mensual de octubre.",
+        "president": null,
+        "musicalAccompaniment": null
     }
 ]
