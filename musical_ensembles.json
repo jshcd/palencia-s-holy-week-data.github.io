@@ -76,7 +76,17 @@
     },
     {
         "id": 16,
-        "name": "Banda CC. y TT. del Santísimo Cristo de la Preciosísima Sangre",
+        "name": "Banda de CC. y TT. del Santísimo Cristo de la Preciosísima Sangre",
         "municipality": "Valladolid"
+    },
+    {
+        "id": 17,
+        "name": "Banda de CC. y TT. Santísimo Cristo de la Victoria",
+        "municipality": "León"
+    },
+    {
+        "id": 18,
+        "name": "Agrupación Musical Ntro. Padre Jesús de la Pasión",
+        "municipality": "Linares"
     }
 ]
