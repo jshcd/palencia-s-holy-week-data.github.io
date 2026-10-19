@@ -212,5 +212,13 @@
         "performers": null,
         "place": 24,
         "organizers": [3]
+    },
+    {
+        "startTime": "2026-11-29T11:30:00.000Z",
+        "description": "Concierto benéfico de música procesional.\nHomenaje a Nicolás Turienzo Robles.\nDonativo para el proyecto de caridad de la coronación: 15 €.",
+        "speakers": [],
+        "performers": [2, 17, 18],
+        "place": 25,
+        "organizers": [3]
     }
 ]
