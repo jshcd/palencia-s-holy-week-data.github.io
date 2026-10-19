@@ -217,7 +217,11 @@
         "startTime": "2026-11-29T11:30:00.000Z",
         "description": "Concierto benéfico de música procesional.\nHomenaje a Nicolás Turienzo Robles.\nDonativo para el proyecto de caridad de la coronación: 15 €.",
         "speakers": [],
-        "performers": [2, 17, 18],
+        "performers": [
+            "Banda de CC. y TT. de N. P. Jesús Nazareno (Palencia)",
+            "Banda de CC. y TT. Santísimo Cristo de la Victoria (León)",
+            "Agrupación Musical Ntro. Padre Jesús de la Pasión (Linares)"
+        ],
         "place": 25,
         "organizers": [3]
     }
