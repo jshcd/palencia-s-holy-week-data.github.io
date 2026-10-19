@@ -163,8 +163,15 @@
     {
         "id": 24,
         "name": "Sede de la Hermandad de Cofradías Penitenciales de Palencia",
-        "address": "Plaza de Zurradores, s/n",
+        "address": "Plaza de Zurradores s/n",
         "latitude": 42.00864916155494,
         "longitude": -4.533241016866563
+    },
+    {
+        "id": 25,
+        "name": "Teatro Ortega",
+        "address": "Calle Colón 2",
+        "latitude": 42.0091123,
+        "longitude": -4.5314476
     }
 ]
