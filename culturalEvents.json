@@ -214,6 +214,18 @@
         "organizers": [3]
     },
     {
+        "startTime": "2026-11-21T20:30:00+01:00",
+        "description": "Concierto benéfico Santa Cecilia.\nEstreno de composiciones para la Coronación Canónica de Nuestra Madre La Virgen de la Amargura.\nDonativo para el proyecto de caridad de la coronación: 5 €.",
+        "speakers": [],
+        "performers": [
+            "Christopher Slaski, Órgano",
+            "Banda Municipal de Música de Palencia",
+            "Coro Hermandad Jesús en su Tercera Caída (Zamora)"
+        ],
+        "place": 2,
+        "organizers": [3]
+    },
+    {
         "startTime": "2026-11-29T11:30:00.000Z",
         "description": "Concierto benéfico de música procesional.\nHomenaje a Nicolás Turienzo Robles.\nDonativo para el proyecto de caridad de la coronación: 15 €.",
         "speakers": [],
