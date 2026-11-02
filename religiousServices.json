@@ -1438,5 +1438,15 @@
         "description": "Rosario mensual de octubre.",
         "president": null,
         "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-11-02T20:30:00+01:00",
+        "startTime": "20:30",
+        "category": "mass",
+        "place": 3,
+        "organizers": [2],
+        "description": "Misa de difuntos de la cofradía. Aplicada por el eterno descanso de las almas de los Hermanos y Hermanas difuntos.",
+        "president": null,
+        "musicalAccompaniment": null
     }
 ]
