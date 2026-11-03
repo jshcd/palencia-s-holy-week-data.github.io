@@ -1448,5 +1448,15 @@
         "description": "Misa de difuntos de la cofradía. Aplicada por el eterno descanso de las almas de los Hermanos y Hermanas difuntos.",
         "president": null,
         "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-11-12T19:30:00+01:00",
+        "startTime": "19:30",
+        "category": "mass",
+        "place": 10,
+        "organizers": [9],
+        "description": "Santa Misa por los Fieles Difuntos de nuestra hermandad.",
+        "president": "D. Eulogio Poza, consiliario de la hermandad",
+        "musicalAccompaniment": null
     }
 ]
