@@ -1450,6 +1450,26 @@
         "musicalAccompaniment": null
     },
     {
+        "date": "2026-11-07T19:30:00+01:00",
+        "startTime": "19:30",
+        "category": "mass",
+        "place": 2,
+        "organizers": [1],
+        "description": "Misa general de difuntos.\nSiguiendo la tradición, la Cofradía de la Santa Vera Cruz de Palencia celebrará la Santa Misa por todos los Hermanos Difuntos, especialmente por aquellos que nos han dejado durante el último año.\nInvitamos a todos los Hermanos a asistir con medalla, uniéndonos en oración por quienes un día caminaron junto a nosotros bajo el signo de la Cruz.\nSi deseáis que se nombre a algún familiar, amigo o ser querido durante la misa, podéis contactar con la Vocalía de Cultos.\nQue el Santísimo Cristo de la Vera Cruz acoja en su infinita misericordia a nuestros Hermanos difuntos, y que el resplandor de la Cruz ilumine siempre su descanso eterno.",
+        "president": "Fray Luis Miguel García Palacios, O.P., Prior del Convento de San Pablo y Padre Abad de la Cofradía",
+        "musicalAccompaniment": "A. M. Santa Vera Cruz (Palencia)"
+    },
+    {
+        "date": "2026-11-11T20:00:00+01:00",
+        "startTime": "20:00",
+        "category": "mass",
+        "place": 8,
+        "organizers": [5],
+        "description": "Solemne Misa por Nuestros Difuntos.\nLa Hermandad del Santísimo Cristo de la Misericordia celebrará una solemne Eucaristía en memoria de todos sus hermanos difuntos.\nUn momento de oración, recuerdo y recogimiento para honrar a quienes les precedieron en la fe y dejaron su huella en la Hermandad.",
+        "president": null,
+        "musicalAccompaniment": null
+    },
+    {
         "date": "2026-11-12T19:30:00+01:00",
         "startTime": "19:30",
         "category": "mass",
