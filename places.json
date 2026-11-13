@@ -173,5 +173,12 @@
         "address": "Calle Colón 2",
         "latitude": 42.0091123,
         "longitude": -4.5314476
-    }
+    },
+	{
+		"id": 26,
+		"name": "Iglesia Parroquial de San Lázaro",
+		"address": "Plaza de San Lázaro s/n",
+		"latitude": 42.0095379,
+		"longitude": -4.5298255
+	}
 ]

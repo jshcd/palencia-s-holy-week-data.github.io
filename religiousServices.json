@@ -1480,6 +1480,16 @@
         "musicalAccompaniment": null
     },
     {
+        "date": "2026-11-14T18:00:00+01:00",
+        "startTime": "18:00",
+        "category": "mass",
+        "place": 26,
+        "organizers": null,
+        "description": "Eucaristía Estacional",
+        "president": "Excmo. y Rvdmo. Sr. D. Mikel Garciandía Goñi, obispo de Palencia",
+        "musicalAccompaniment": null
+    },
+    {
         "date": "2026-11-20T19:45:00+01:00",
         "startTime": "19:45",
         "category": "triduum",

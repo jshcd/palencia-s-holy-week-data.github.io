@@ -30,5 +30,21 @@
     "organizer": 2,
     "description": "Procesión en honor a San Francisco\nRecorrido: Lope de Vega - Ignacio Martínez de Azcoitia - Mayor Principal - Cestilla - Menéndez Pelayo - Barrio y Mier - Valentín Calderón - Lope de Vega",
     "musicalEnsemble": 5
+  },
+  {
+    "date": "2026-11-14T17:15:00+01:00",
+    "startTime": "17:15",
+    "place": 7,
+    "organizer": null,
+    "description": "Solemne Traslado Procesional.\nRecorrido: [17:15] Atrio de San Francisco - Plaza de San Francisco - Plazuela de la Sal - Joaquín Costa - Burgos - Plaza de San Lázaro - Iglesia de San Lázaro",
+    "musicalEnsemble": null
+  },
+  {
+    "date": "2026-11-14T18:45:00+01:00",
+    "startTime": "18:45",
+    "place": 26,
+    "organizer": null,
+    "description": "Procesión Jubilar del Tránsito\nRecorrido: [18:45] Iglesia de San Lázaro - Plaza de San Lázaro - Becerro de Bengoa - Colón - Joaquín Costa - Plazuela de la Sal - Plaza de San Francisco - [19:30] Atrio de San Francisco",
+    "musicalEnsemble": null
   }
 ]
