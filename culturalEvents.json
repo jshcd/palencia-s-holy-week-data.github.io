@@ -234,9 +234,19 @@
         "organizers": [3]
     },
     {
+        "startTime": "2026-11-22T19:00:00.000Z",
+        "description": "Concierto en honor a Santa Cecilia, patrona de la música.",
+        "speakers": null,
+        "performers": [
+            "A. M. Santa Vera Cruz"
+        ],
+        "place": 11,
+        "organizers": [1]
+    },
+    {
         "startTime": "2026-11-29T11:30:00.000Z",
         "description": "Concierto benéfico de música procesional.\nHomenaje a Nicolás Turienzo Robles.\nDonativo para el proyecto de caridad de la coronación: 15 €.",
-        "speakers": [],
+        "speakers": null,
         "performers": [
             "Banda de CC. y TT. de N. P. Jesús Nazareno (Palencia)",
             "Banda de CC. y TT. Santísimo Cristo de la Victoria (León)",
