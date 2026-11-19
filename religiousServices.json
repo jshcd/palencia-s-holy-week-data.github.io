@@ -1518,5 +1518,15 @@
         "description": "Triduo a Cristo Rey. Él es el Rey de Reyes y el Señor de Señores. Misa y ofrenda a San Antón Abad.",
         "president": null,
         "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-11-25T19:00:00+01:00",
+        "startTime": "19:00",
+        "category": "rosary",
+        "place": 23,
+        "organizers": [9],
+        "description": "Rosario mensual de noviembre.",
+        "president": null,
+        "musicalAccompaniment": null
     }
 ]
