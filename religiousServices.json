@@ -1528,5 +1528,15 @@
         "description": "Rosario mensual de noviembre.",
         "president": null,
         "musicalAccompaniment": null
+    },
+    {
+        "date": "2026-11-27T19:30:00+01:00",
+        "startTime": "19:30",
+        "category": "mass",
+        "place": 4,
+        "organizers": [3],
+        "description": "Vigilia. Preparación de la Coronación Canónica",
+        "president": null,
+        "musicalAccompaniment": null
     }
 ]
